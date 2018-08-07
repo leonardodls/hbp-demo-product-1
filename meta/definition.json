@@ -325,7 +325,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_1_Introduction/Dummy.md"
+          "url": "Chapter_1_Introduction/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -336,7 +336,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_2_Model_Building_Blocks/Dummy.md"
+          "url": "Chapter_2_Model_Building_Blocks/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -347,7 +347,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_3_Model_Terminology/Dummy.md"
+          "url": "Chapter_3_Model_Terminology/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -358,7 +358,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy.md"
+          "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -369,7 +369,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy.md"
+          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -380,7 +380,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_6_Building_A_Model/Dummy.md"
+          "url": "Chapter_6_Building_A_Model/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -391,7 +391,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy.md"
+          "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
@@ -402,7 +402,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_8_Data_Tables/Dummy.md"
+          "url": "Chapter_8_Data_Tables/01_Dummy.md"
         },
         "description": "",
         "learning-objectives": []
