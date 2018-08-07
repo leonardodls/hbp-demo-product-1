@@ -32,7 +32,7 @@ That is, there is a fixed cost of $400,000 incurred in building a bakery and a c
 
 Let us now start building the model to determine whether opening the new bakery is a good idea.
 
-Step 1: Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon:
+### Step 1: Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon
 
 Plant fixed cost
 
@@ -44,11 +44,13 @@ Also assume the annual capacity of the bakery is 300,000 pastries
 
 ![](./Chapter_6_Building_A_Model/media/09_Modeling_Bakery_Building_Cost_And_Discount_Rate/image1.png)
 
-Step 2: Now calculate the total cost of construction using the above equation: 
-`
+Step 2: Now calculate the total cost of construction using an equation
+
+
+```
 [math]
-\(Bakery\ Building\ Cost\  = \ Plant\ Fixed\ Cost\  + \ Cost\ per\ unit\  \times \text{\ Annual\ Capacity}\)
-`
+\[Bakery\ Building\ Cost\  = \ Plant\ Fixed\ Cost\  + \ Cost\ per\ unit\  \times \text{\ Annual\ Capacity}\]
+```
 
 Help: The Bakery Building Cost in cell D18 is calculated as 
 `

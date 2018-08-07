@@ -52,30 +52,25 @@ Annual price increase
 
 ![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image1.png)
 
-Step 2: Use text in cell C2 through C15 to name the data in cells D2 through D15. Simply Select the cell range C2 through D15 and from the formula tab, choose 'Create From Selection’ followed by Create Names in Left Column
+### Step 2: Use text in cell C2 through C15 to name the data in cells D2 through D15. Simply Select the cell range C2 through D15 and from the formula tab, choose 'Create From Selection’ followed by Create Names in Left Column
 
 ![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image2.png)
 
-Step 3: Calculate Steady state growth rate in Cell D11 (beginning growth rate \* steady state level of demand)
+### Step 3: Calculate Steady state growth rate in Cell D11 (beginning growth rate \* steady state level of demand)
 
 Help: Multiply the beginning growth rate D9 with D10, the steady state level of demand as a percentage of the beginning growth rate.
 
 ![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image3.png)
 
-Step 4: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell E21) (using 
-`
-[math]
-\(demand\  = \ a\ \ bp\)
-`
-)
+### Step 4: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell E21) (using, demand = a - bp)
 
 Help: Enter the 2013 demand as, 420,000 minus 60,000 times price, by entering in cell E20 the formula, equals year one demand intersect minus year one demand slope times D5
 
 ![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image4.png)
 
-Step 5: Let us calculate the Demand Growth rate for Year 2014 - 2022.
+### Step 5: Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-Help:In cell F19, compute the 2014 demand growth with the formula, 
+Help: In cell F19, compute the 2014 demand growth with the formula, 
 `
 [math]
 \(= if\ (F16\  < = \ years\ till\ demand\ steady\ state\  + \ 1,\ beginning\ growth\ rate,\ steady\ state\ growth\ rate)\)
