@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "schema": 1,
+    "code": "cosmatt",
+    "thumbnailsmall": "cover.jpg",
+    "thumbnaillarge": "cover.jpg",
+    "title": "The Art of Spreadsheet Modeling",
+    "authors": [
+      {
+        "honorific": "Mr",
+        "firstname": "John",
+        "lastname": "Durrant",
+        "affiliation": {
+          "jobtitle": "Retired Servo Engineer"
+        },
+        "asseturl": "Authors/John_Durrant.md",
+        "thumbnail": "Authors/img/John-Durrant_Small.png",
+        "avatarurl": "Authors/img/John-Durrant_Big.png",
+        "contact": {
+          "street": "",
+          "city": "Crewe",
+          "state": "",
+          "country": "UK",
+          "phone": "+44 1270 811223",
+          "email": "support@comprotechnologies.com",
+          "linkedin": "https://www.linkedin.com/in/john-durrant-5105433b/"
+        }
+      },
+      {
+        "honorific": "Mr",
+        "firstname": "Graham",
+        "lastname": "Elvis",
+        "affiliation": {
+          "jobtitle": "Retired Servo Engineer"
+        },
+        "asseturl": "Authors/Graham_Elvis.md",
+        "thumbnail": "Authors/img/Graham_Small.png",
+        "avatarurl": "Authors/img/Graham_big.png",
+        "contact": {
+          "street": "",
+          "city": "Crewe",
+          "state": "",
+          "country": "UK",
+          "phone": "+44 1270 555444",
+          "email": "support@comprotechnologies.com"
+        }
+      },
+      {
+        "honorific": "Mr",
+        "firstname": "Roger",
+        "lastname": "Brookes",
+        "affiliation": {
+          "jobtitle": "Electrical & Electronics Engineer "
+        },
+        "asseturl": "Authors/Roger_Brookes.md",
+        "thumbnail": "Authors/img/Roger_Small.png",
+        "avatarurl": "Authors/img/Roger_Big.png",
+        "contact": {
+          "street": "",
+          "city": "Crewe",
+          "state": "",
+          "country": "UK",
+          "phone": "+44 1270 520012",
+          "email": "support@comprotechnologies.com",
+          "linkedin": "https://www.linkedin.com/in/roger-brookes-356b9922/"
+        }
+      }
+    ],    
+    "description": "Take the course to learn the generation of Balance Sheet and Classified Balance Sheet and the calculation of Current Ratio",
+    "producttype": "courseware",
+    "model": {
+      "type": "cosmatt_1"
+    }
+  },
+  "definition": {
+    "learning-objectives": {
+    },
+    "tags": {
+      "Reading": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      },
+      "PracticeQuestion": {
+        "tags": {}
+      }
+    }
+  },
+  "items": {
+    "model": {
+      "introduction": [
+        {
+          "name": "About the Course",
+          "item-type": "resource",
+          "resource": "RE_About_Course",
+          "item-code": "introduction/about_the_course",
+          "tracking": false
+        },
+        {
+          "name": "Foreword",
+          "item-type": "resource",
+          "resource": "RE_FOREWORD",
+          "item-code": "about/foreword",
+          "tracking": false
+       },
+       {
+          "name": "Title",
+          "item-type": "folder",         
+          "item-code": "about/title",
+          "title": "Principles of Accounting",
+          "publisher": {
+            "name": "Compro Technologies",                
+            "copyright": "©2018 Compro Technologies All Rights Reserved"
+          },
+          "tracking": false
+       }
+      ]       
+    },
+    "default": [
+      {
+        "name": "Introduction",
+        "item-type": "folder",
+        "item-code": "Chapter_1_Introduction",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_1",
+            "item-code": "Chapter_1_Introduction/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Model Building Blocks",
+        "item-type": "folder",
+        "item-code": "Chapter_2_Model_Building_Blocks",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Model Terminology",
+        "item-type": "folder",
+        "item-code": "Chapter_3_Model_Terminology",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Model_Terminology/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "The Spreadsheet Model Building Process",
+        "item-type": "folder",
+        "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_4_SEC_1",
+            "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Rules To Guide Intelligent Modeling",
+        "item-type": "folder",
+        "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Building A Model", 
+        "item-type": "folder",
+        "item-code": "Chapter_6_Building_A_Model",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Set Up The Spreadsheet Model",
+        "item-type": "folder",
+        "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Data Tables",
+        "item-type": "folder",
+        "item-code": "Chapter_8_Data_Tables",
+        "sub-type": "default",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_8_SEC_1",
+            "item-code": "Chapter_8_Data_Tables/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "RE_About_Course": {
+        "sub-type": "md",
+        "tags": [],
+        "md": {
+          "url": "Introduction/AboutCourse.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+     "RE_FOREWORD": {
+        "sub-type": "md",
+        "tags": [],
+        "md": {
+          "url": "Foreword/Foreword.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_2_Model_Building_Blocks/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_3_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_3_Model_Terminology/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_5_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_6_Building_A_Model/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_7_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_8_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_8_Data_Tables/Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      }
+    },
+    "test": {},
+    "ebook": {}
+  }
+}
