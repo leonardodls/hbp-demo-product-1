@@ -238,7 +238,176 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "Should Le Napoleon Open A New Bakery?",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Steps 1-2 Of The Model-building Process",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Step 3: Determining The Decision Variables",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "The Building Blocks Of An Influence Chart",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Using Arrows To Link Influence Chart Building Blocks",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "What Determines The Bakery's Npv?",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Modeling Bakery Building Cost And Discount Rate",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Developing An Influence Chart For Annual Bakery Profits",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Using An Influence Chart To Identify Intertemporal Relationships",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_9",
+            "item-code": "Chapter_6_Building_A_Model/Modeling_Bakery_Building_Cost_And_Discount_Rate",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Calculating Each Year's Demand",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_10",
+            "item-code": "Chapter_6_Building_A_Model/Calculating_Each_Years_Demand",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Modeling Unit Cost Of Producing A Pastry",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Modeling The Timing Of The Cash Flows",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Step 4: Identifying The Model's Key Relationships",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Exercise",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
             "item-code": "Chapter_6_Building_A_Model/Dummy",
@@ -381,6 +550,28 @@
         ],
         "md": {
           "url": "Chapter_6_Building_A_Model/01_Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_9": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_6_Building_A_Model/09_Modeling_Bakery_Building_Cost_And_Discount_Rate.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_10": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_6_Building_A_Model/10_Calculating_Each_Years_Demand.md"
         },
         "description": "",
         "learning-objectives": []
