@@ -316,19 +316,6 @@
             }
           },
           {
-            "name": "Modeling Bakery Building Cost And Discount Rate",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_6_Building_A_Model/Dummy",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
             "name": "Developing An Influence Chart For Annual Bakery Profits",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
@@ -343,6 +330,19 @@
           },
           {
             "name": "Using An Influence Chart To Identify Intertemporal Relationships",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Building_A_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Modeling Bakery Building Cost And Discount Rate",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_9",
             "item-code": "Chapter_6_Building_A_Model/Modeling_Bakery_Building_Cost_And_Discount_Rate",
