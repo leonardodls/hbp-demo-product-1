@@ -44,7 +44,7 @@ Also assume the annual capacity of the bakery is 300,000 pastries
 
 ![](./Chapter_6_Building_A_Model/media/09_Modeling_Bakery_Building_Cost_And_Discount_Rate/image1.png)
 
-Step 2: Now calculate the total cost of construction using an equation
+### Step 2: Now calculate the total cost of construction using an equation
 
 
 ```
