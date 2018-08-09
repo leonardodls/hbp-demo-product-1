@@ -161,6 +161,19 @@
                 "visible": true
               }
             }
+          },
+          {
+            "name": "Coming Soon",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
