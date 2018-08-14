@@ -21,7 +21,7 @@ We will assume an annual discount rate for profits of 15%. This means that $1 of
 That is, there is a fixed cost of $400,000 incurred in building a bakery and a cost of $3 per unit of pastry capacity. If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form 
 `
 [math]
-\(BC = Fixed\ cost\  + \ kxb\)
+\(C = Fixed\ cost\  + \ kxb\)
 `
  , where 
 `
@@ -42,14 +42,17 @@ Cost per unit of capacity
 
 Also assume the annual capacity of the bakery is 300,000 pastries
 
-![](./Chapter_6_Building_A_Model/media/09_Modeling_Bakery_Building_Cost_And_Discount_Rate/image1.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leonardo-demo-288","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+```
 
 ### Step 2: Now calculate the total cost of construction using an equation
 
 
 ```
 [math]
-\[Bakery\ Building\ Cost\  = \ Plant\ Fixed\ Cost\  + \ Cost\ per\ unit\  \times \text{\ Annual\ Capacity}\]
+\[Bakery\ Building\ Cost\  = \ Plant\ Fixed\ Cost\  + \ Cost\ per\ unit\  \times \ Annual\ Capacity\]
 ```
 
 Help: The Bakery Building Cost in cell D18 is calculated as 
@@ -61,4 +64,7 @@ Help: The Bakery Building Cost in cell D18 is calculated as
 
 Note: As described in our modeling rules, we have grouped all our inputs together. In Cells B2 through B15 we have entered values of our inputs and decision variables. Decision variables are color coded in blue and input assumptions in yellow. Calculations are in orange.
 
-![](./Chapter_6_Building_A_Model/media/09_Modeling_Bakery_Building_Cost_And_Discount_Rate/image2.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leonardo-demo-285","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+```
