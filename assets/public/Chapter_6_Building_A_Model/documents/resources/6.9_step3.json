@@ -5,10 +5,6 @@
         "itemId": "leo-leonardo-demo-186",
         "meta": {
 	        "renderOverrides": {
-	          "widgetStyles": {
-	            "border": "none"
-	          },
-            "dependencyAnimation":true
 	        }
       	}
       }
