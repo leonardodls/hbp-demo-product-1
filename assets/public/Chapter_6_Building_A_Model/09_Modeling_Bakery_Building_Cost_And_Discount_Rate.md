@@ -40,7 +40,7 @@ Note: As described in our modeling rules, we have grouped all our inputs togethe
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-180","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-180","meta":{"renderOverrides":{}}}}} 
 ```
 
 ### Step 2: Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon
@@ -55,7 +55,7 @@ Plant fixed cost
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-181","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-181","meta":{"renderOverrides":{}}}}} 
 ```
 
 ### Step 3: Now calculate the total cost of construction using an equation
@@ -77,5 +77,5 @@ Note: As described in our modeling rules, we have grouped all our inputs togethe
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-186","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-186","meta":{"renderOverrides":{}}}}} 
 ```
