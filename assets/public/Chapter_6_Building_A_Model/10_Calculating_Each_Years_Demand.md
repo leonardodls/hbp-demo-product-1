@@ -50,25 +50,35 @@ Steady state level of demand as a percentage of the initial growth rate
 
 Annual price increase
 
-![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image1.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-182","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+```
 
-### Step 2: Use text in cell C2 through C15 to name the data in cells D2 through D15. Simply Select the cell range C2 through D15 and from the formula tab, choose 'Create From Selection’ followed by Create Names in Left Column
-
-![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image2.png)
-
-### Step 3: Calculate Steady state growth rate in Cell D11 (beginning growth rate \* steady state level of demand)
+### Step 2: Calculate Steady state growth rate in Cell D11 (beginning growth rate \* steady state level of demand)
 
 Help: Multiply the beginning growth rate D9 with D10, the steady state level of demand as a percentage of the beginning growth rate.
 
-![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image3.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-183","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+```
 
-### Step 4: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell E21) (using, demand = a - bp)
+### Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell E21) (using, demand = a - bp)
 
 Help: Enter the 2013 demand as, 420,000 minus 60,000 times price, by entering in cell E20 the formula, equals year one demand intersect minus year one demand slope times D5
 
-![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image4.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-184","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+```
 
-### Step 5: Let us calculate the Demand Growth rate for Year 2014 - 2022.
+### Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
+
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-185","meta":{"renderOverrides":{"widgetStyles":{"border":"none"},"dependencyAnimation":true}}}}} 
+```
 
 Help: In cell F19, compute the 2014 demand growth with the formula, 
 `
@@ -83,7 +93,3 @@ Help: In cell F19, compute the 2014 demand growth with the formula,
 ). Recall from a prior section that a $ sign before the row of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
 
 As long as we are in the fast growth phase, demand grows by 15%. After the fast growth phase is over, demand grows by 5%. Copying this formula to the range G19 through N19 generates the growth rate in demand through 2022.
-
-![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image5.png)
-
-![](./Chapter_6_Building_A_Model/media/10_Calculating_Each_Years_Demand/image6.png)
