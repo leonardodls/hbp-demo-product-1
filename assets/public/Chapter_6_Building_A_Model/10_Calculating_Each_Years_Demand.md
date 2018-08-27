@@ -55,7 +55,7 @@ Step 1: Using the above data, let us fill in the inputs and decision variables f
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-182","meta":{"renderOverrides":{}}}}} 
 ```
 
-Step 2: Calculate Steady state growth rate in Cell D11 (beginning growth rate \* steady state level of demand)
+Step 2: Calculate Steady state growth rate in Cell B10 (beginning growth rate \* steady state level of demand)
 
 Help: Multiply the beginning growth rate with the steady state level of demand as a percentage of the beginning growth rate (B8 x B9).
 
@@ -64,7 +64,7 @@ Help: Multiply the beginning growth rate with the steady state level of demand a
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-183","meta":{"renderOverrides":{}}}}} 
 ```
 
-Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell E21) (using, demand = a - bp)
+Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using, demand = a - bp)
 
 Help: Enter the 2013 demand as 420,000 minus 60,000 times price, by entering in cell C19 the formula, = Year 1 demand intercept - Year 1 demand slope x Year 1 selling price (= B5-B6 x B4)
 

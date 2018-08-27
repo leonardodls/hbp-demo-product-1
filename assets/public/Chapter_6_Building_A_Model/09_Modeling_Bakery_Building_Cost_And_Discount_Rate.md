@@ -13,7 +13,7 @@ That is, there is a fixed cost of $y incurred in building a bakery and a cost of
 If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form 
 `
 [math]
-\(\ \text{BB}C = Fixed\ cost\  + \ kx^{b}\)
+\(\ BBC = Fixed\ cost\  + \ kx^{b}\)
 `
  , where 
 `
@@ -45,10 +45,10 @@ Step 1: Using the above data, fill in the following inputs in the spreadsheet mo
 
 Step 2: Now calculate the total cost of construction using an equation
 
-Help: The Bakery Building Cost in cell D18 is calculated as 
+Help: The Bakery Building Cost in cell B17 is calculated as 
 `
 [math]
-\(B2 + (B3\  \times \ B4)\)
+\(B1 + (B2\  \times \ B3)\)
 `
 .
 
