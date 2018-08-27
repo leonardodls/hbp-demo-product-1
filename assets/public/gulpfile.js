@@ -4,11 +4,11 @@ gutil = require('gulp-util');
 exec = require('child_process').exec;
 var git = require('gulp-git');
 var homeDir = require('home-dir');
-const sourceFolder = homeDir('/Dropbox/COSMATT/Cosmatt Training Content');
+const sourceFolder = homeDir('/Dropbox/HBP - Spreadsheet Modeling');
 const destFolder = __dirname;
 var fileSystem        = require('fs');
 var argv = require('yargs').argv;
-var targetBranch = argv.target || 'develop'
+var targetBranch = 'master';
 const prompt = require('gulp-prompt');
 
 
@@ -162,7 +162,7 @@ gulp.task('update-branch',function(){
   return updateBranch(targetBranch); 
 });
 gulp.task('deploy-content', ["update-branch","copy" ,"docxtomd","add","commit","push","tag"],function(){
-  gutil.log('successfully deploy content in develop branch');
+  gutil.log('successfully deploy content in master branch');
 });
 
 gulp.task('promote-content', ["update-branch","merge","changelog","push","tag"],function(){
