@@ -5,6 +5,7 @@
         "itemId": "leo-leonardo-demo-181",
         "meta": {
 	        "renderOverrides": {
+	        	"Height": "autoScroll"
 	        }
       	}
       }
