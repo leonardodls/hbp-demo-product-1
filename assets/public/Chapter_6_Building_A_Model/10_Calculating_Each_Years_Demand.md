@@ -57,7 +57,12 @@ Step 1: Using the above data, let us fill in the inputs and decision variables f
 
 Step 2: Calculate Steady state growth rate in Cell B10 (beginning growth rate \* steady state level of demand)
 
-Help: Multiply the beginning growth rate with the steady state level of demand as a percentage of the beginning growth rate (B8 x B9).
+Help: Multiply the beginning growth rate with the steady state level of demand as a percentage of the beginning growth rate (
+`
+[math]
+\(B8\  \times \ B9\)
+`
+).
 
 ```
 [cosmatt-widget]
@@ -66,7 +71,12 @@ Help: Multiply the beginning growth rate with the steady state level of demand a
 
 Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using, demand = a - bp)
 
-Help: Enter the 2013 demand as 420,000 minus 60,000 times price, by entering in cell C19 the formula, = Year 1 demand intercept - Year 1 demand slope x Year 1 selling price (= B5-B6 x B4)
+Help: Enter the 2013 demand as 420,000 minus 60,000 times price, by entering in cell C19 the formula, = Year 1 demand intercept - Year 1 demand slope x Year 1 selling price (
+`
+[math]
+\(= \ B5 - B6\  \times \ B4\)
+`
+)
 
 ```
 [cosmatt-widget]
@@ -75,7 +85,12 @@ Help: Enter the 2013 demand as 420,000 minus 60,000 times price, by entering in 
 
 Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula : (=if(D15\<= $B7+1,$B8, $B10). Recall from a prior section that a $ sign before the row of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
+1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula : (
+    `
+    [math]
+    \(= if(D15 < = \ \$ B7 + 1,\$ B8,\ \$ B10\)
+    `
+    ). Recall from a prior section that a $ sign before the row of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
 
 2.  As long as we are in the fast growth phase, demand grows by 15%. After the fast growth phase is over, demand grows by 5%. Copying the formula in D18 to the range E18 through L18 generates the growth rate in demand through 2022.
 
