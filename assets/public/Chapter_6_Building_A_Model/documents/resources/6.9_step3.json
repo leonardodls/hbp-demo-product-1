@@ -5,7 +5,8 @@
         "itemId": "leo-leonardo-demo-186",
         "meta": {
 	        "renderOverrides": {
-	        }
+	        },
+          "enableframeButton": true
       	}
       }
     }
