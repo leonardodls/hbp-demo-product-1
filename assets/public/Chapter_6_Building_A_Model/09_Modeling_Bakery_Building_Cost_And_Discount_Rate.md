@@ -40,7 +40,7 @@ Step 1: Using the above data, fill in the following inputs in the spreadsheet mo
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-181","meta":{"renderOverrides":{}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-181","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
 Step 2: Now calculate the total cost of construction using an equation
@@ -54,5 +54,5 @@ Help: The Bakery Building Cost in cell B17 is calculated as
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-186","meta":{"renderOverrides":{}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-186","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
