@@ -54,7 +54,7 @@ Step 1: Using the above data, let us fill in the inputs and decision variables f
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-182","meta":{"renderOverrides":{}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-212","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
 Step 2: Calculate Steady state growth rate in Cell B10 (beginning growth rate \* steady state level of demand)
@@ -63,7 +63,7 @@ Help: Excel Formula = B8\*B9.
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-183","meta":{"renderOverrides":{}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
 Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using, demand = a - bp)
@@ -72,7 +72,7 @@ Help: Enter the 2013 demand as 420,000 minus 60,000 times price, by entering in 
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-184","meta":{"renderOverrides":{}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-214","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
 Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
@@ -87,5 +87,5 @@ Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-185","meta":{"renderOverrides":{}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-215","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```

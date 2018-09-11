@@ -1,6 +1,6 @@
 ## Modeling Bakery Building Costs
 
-Let us calculate the total cost of constructing the bakery. In modeling the bakery building costs (BBC) as a function of the annual capacity x of the bakery it is tempting to assume BBC=kx (Where x = number of pastries that can be baked per year and $k is the per unit cost of pastry capacity). **Usually, however, the cost of building is made up of a fixed cost plus a per-unit cost**. We will follow this route and assume
+Let us calculate the total cost of constructing the bakery. In modeling the bakery building costs (BBC) as a function of the annual capacity x of the bakery it is tempting to assume BBC=kx (where x = number of pastries that can be baked per year and $k is the per unit cost of pastry capacity). **Usually, however, the cost of building is made up of a fixed cost plus a per-unit cost**. We will follow this route and assume
 
 
 ```

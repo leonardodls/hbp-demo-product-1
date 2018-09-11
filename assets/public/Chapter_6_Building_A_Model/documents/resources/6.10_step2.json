@@ -2,10 +2,11 @@
     "type": "spreadsheet-DLSleonardo-v2",
     "options": {
       "data": {
-        "itemId": "leo-leonardo-demo-183",
+        "itemId": "leo-leonardo-demo-213",
         "meta": {
 	        "renderOverrides": {
-	        }
+	        },
+          "enableframeButton": true
       	}
       }
     }
