@@ -10,17 +10,17 @@ We will assume an annual discount rate for profits of 15%. This means that $1 of
 
 That is, there is a fixed cost of $y incurred in building a bakery and a cost of $k per unit of pastry capacity. In our example, we will assume that fixed cost, y = $400,000 incurred in building a bakery and k = $3 per unit of pastry capacity.
 
-If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form 
-`
-[math]
-\(\ BBC = Fixed\ cost\  + \ kx^{b}\)
-`
- , where 
-`
-[math]
-\(0 < \ b < \ 1\)
-`
-. This will ensure that each additional unit of capacity will incur a smaller cost.
+> If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form 
+> `
+> [math]
+> \(\ BBC = Fixed\ cost\  + \ kx^{b}\)
+> `
+>  , where 
+> `
+> [math]
+> \(0 < \ b < \ 1\)
+> `
+> . This will ensure that each additional unit of capacity will incur a smaller cost.
 
 ### Let us now start building the model to determine whether opening the new bakery is a good idea. 
 
