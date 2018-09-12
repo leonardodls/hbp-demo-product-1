@@ -122,7 +122,7 @@
     },
     "default": [
       {
-        "name": "Introduction",
+        "name": "What Is A Spreadsheet Model?",
         "item-type": "folder",
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
@@ -131,6 +131,19 @@
             "name": "Coming Soon",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
+            "item-code": "Chapter_1_Introduction/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Situations Where A Spreadsheet Model May Be Useful",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_2",
             "item-code": "Chapter_1_Introduction/Dummy",
             "tracking": true,
             "attribs": {
@@ -150,7 +163,7 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "Outputs, Inputs, Decision Variables, And Calculations",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
@@ -163,7 +176,7 @@
             }
           },
           {
-            "name": "Coming Soon",
+            "name": "Model Outputs",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
@@ -450,6 +463,17 @@
         "learning-objectives": []
       },
       "RE_CH_1_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction/01_Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
