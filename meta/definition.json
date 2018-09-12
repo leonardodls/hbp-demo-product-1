@@ -122,13 +122,13 @@
     },
     "default": [
       {
-        "name": "What Is A Spreadsheet Model?",
+        "name": "Introduction",
         "item-type": "folder",
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "What Is A Spreadsheet Model?",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
             "item-code": "Chapter_1_Introduction/Dummy",
@@ -187,6 +187,45 @@
                 "visible": true
               }
             }
+          },
+          {
+            "name": "Model Inputs",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Decision Variables",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Model Calculations",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
@@ -198,7 +237,20 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "Prescriptive And Descriptive Models",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Model_Terminology/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Deterministic And Stochastic Models",
             "item-type": "resource",
             "resource": "RE_CH_3_SEC_1",
             "item-code": "Chapter_3_Model_Terminology/Dummy",
@@ -220,7 +272,7 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "Steps to Build a Model",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_1",
             "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy",
@@ -236,13 +288,195 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Rules To Guide Intelligent Modeling",
+        "name": "Rules to Guide Intelligent Modeling",
         "item-type": "folder",
         "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling",
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Spreadsheet Layout And Model Building Blocks",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Color Coding The Building Blocks",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Use Influence Charts To Help Understand Model Relationships",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Use Range Names To Make Formulas Easier To Understand",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Use Comments And/Or Text Boxes To Clarify Model Logic",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Use The Copy Command To Efficiently Create Formulas",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Test Your Model For Sense And Sensibility",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Determine Change In Inputs Needed To Change The Final Decision",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Error Trap Your Formulas",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Use The F9 Key Or Evaluate Formula Option To Understand And/Or Debug Complex Formulas",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Set Up A Model To Be Flexible",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Use 3-dimensional (3D) Formulas In Multi-sheet Models",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Note The Model's Shortcomings And Limitations",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Undo Is Your Friend!",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -329,7 +563,7 @@
             }
           },
           {
-            "name": "Modeling Unit Cost Of Producing A Pastry",
+            "name": "Modeling The Unit Cost Of Producing A Pastry",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_6",
             "item-code": "Chapter_6_Building_A_Model/06_Dummy",
@@ -342,7 +576,7 @@
             }
           },
           {
-            "name": "Step 4: Identifying The Model's Key Relationships",
+            "name": "Calculating Net Profit and NPV",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_7",
             "item-code": "Chapter_6_Building_A_Model/07_Dummy",
@@ -366,44 +600,18 @@
                 "visible": true
               }
             }
-          },
-          {
-            "name": "Modeling Bakery Building Cost And Discount Rate",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_9",
-            "item-code": "Chapter_6_Building_A_Model/09_Modeling_Bakery_Building_Cost_And_Discount_Rate",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Calculating Each Year's Demand",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_10",
-            "item-code": "Chapter_6_Building_A_Model/10_Calculating_Each_Years_Demand",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Set Up The Spreadsheet Model",
+        "name": "Set up the Spreadsheet Model",
         "item-type": "folder",
         "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model",
         "sub-type": "default",
         "items": [
           {
-            "name": "Coming Soon",
+            "name": "Entering Inputs And Decision Variables",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
@@ -414,21 +622,103 @@
                 "visible": true
               }
             }
-          }
-        ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-      },
-      {
-        "name": "Data Tables",
-        "item-type": "folder",
-        "item-code": "Chapter_8_Data_Tables",
-        "sub-type": "default",
-        "items": [
+          },
           {
-            "name": "Coming Soon",
+            "name": "Entering The Spreadsheet Formulas",
             "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_8_Data_Tables/Dummy",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Data Tables",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Sensitivity Analysis With A One-way Data Table",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Setting Up A One-way Data Table For NPV Vs. Price",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Interpreting The Data Table Output",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Editing A Data Table",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Data Tables And Spreadsheet Calculation Options",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Exercise",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
             "tracking": true,
             "attribs": {
               "mark-as-complete": {
@@ -612,28 +902,6 @@
         ],
         "md": {
           "url": "Chapter_6_Building_A_Model/08_Assessment.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_CH_6_SEC_9": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_6_Building_A_Model/09_Modeling_Bakery_Building_Cost_And_Discount_Rate.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_CH_6_SEC_10": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_6_Building_A_Model/10_Calculating_Each_Years_Demand.md"
         },
         "description": "",
         "learning-objectives": []
