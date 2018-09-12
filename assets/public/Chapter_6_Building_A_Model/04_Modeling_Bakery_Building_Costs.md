@@ -10,19 +10,19 @@ Let us calculate the total cost of constructing the bakery. In modeling the bake
 
 That is, there is a fixed cost of $y incurred in building a bakery.
 
-*Other Formulas*
-
-*If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form* 
-`
-[math]
-\(\ BBC = Fixed\ cost\  + \ kx^{b}\)
-`
- *, where* 
-`
-[math]
-\(0 < \ b < \ 1\)
-`
-*. This will ensure that each additional unit of capacity will incur a smaller cost.*
+> Other Formulas
+> 
+> If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form 
+> `
+> [math]
+> \(\ BBC = Fixed\ cost\  + \ kx^{b}\)
+> `
+>  , where 
+> `
+> [math]
+> \(0 < \ b < \ 1\)
+> `
+> . This will ensure that each additional unit of capacity will incur a smaller cost.
 
 ### Let us now start building the model to determine whether opening the new bakery is a good idea. 
 
