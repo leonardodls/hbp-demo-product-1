@@ -947,6 +947,17 @@
         },
         "description": "MCQ Question 1",
         "learning-objectives": []
+      },
+      "RE_CH_6_SEC_4_ET_2": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "test": {
+          "url": "ACTIVITY_CH_6_SEC_4_ET_2"
+        },
+        "description": "MCQ Question 2",
+        "learning-objectives": []
       }
     },
     "test": {},
