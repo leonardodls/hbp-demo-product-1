@@ -599,7 +599,16 @@
                 "delay": 0,
                 "visible": true
               }
-            }
+            },
+            "embedded": [
+              {
+                "item-code": "Chapter_6_Building_A_Model/Emb_Test_1",
+                "name": "Emb Test 1",
+                "resource": "RE_CH_6_SEC_4_ET_1",
+                "item-type": "resource",
+                "tracking": false
+              }
+            ]
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
@@ -926,6 +935,17 @@
           "url": "Chapter_8_Data_Tables/01_Dummy.md"
         },
         "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_4_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "test": {
+          "url": "ACTIVITY_CH_6_SEC_4_ET_1"
+        },
+        "description": "MCQ Question 1",
         "learning-objectives": []
       }
     },
