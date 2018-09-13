@@ -1,6 +1,6 @@
 ## Introduction
 
-Sample Question 1:
+Question 1:
 
 Given the success of the bakery in Bloomington, Le Napoleon is now considering opening another bakery in a neighbouring town. Build out the model to calculate the NPV and determine whether opening up the bakery is a good idea for Le Napoleon.
 
@@ -20,7 +20,12 @@ Please use the following assumptions when building out your model:
 
 7.  The discount rate is 15%.
 
-Sample Question 2 - Multiple Choice
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-216","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
+```
+
+Question 2
 
 Suppose Le Napoleon believes it can charge 10% more for its pastries at the proposed Bloomington bakery, that it had originally thought. Assuming all other inputs and decision variables remained constant, what would be the effect on the model:
 
@@ -33,6 +38,8 @@ Suppose Le Napoleon believes it can charge 10% more for its pastries at the prop
 4.  Revenue and NPV increase but net profit decreases
 
 \[The correct answer is c.\]
+
+Question 3
 
 Le Napoleon has hired a new manager, Charlene Wu. Charlene is trying to build a model to help her determine how to save for retirement. Which of the following would be an output of Charlene’s saving model:
 

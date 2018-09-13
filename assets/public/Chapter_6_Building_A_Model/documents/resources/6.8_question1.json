@@ -1,0 +1,13 @@
+{
+    "type": "spreadsheet-DLSleonardo-v2",
+    "options": {
+      "data": {
+        "itemId": "leo-leonardo-demo-216",
+        "meta": {
+	        "renderOverrides": {
+	        },
+          "enableframeButton": true
+      	}
+      }
+    }
+  }
