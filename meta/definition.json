@@ -882,7 +882,7 @@
           "url": "Chapter_2_Model_Building_Blocks/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Identifying the Model’s key relationships"]
       },
       "RE_CH_3_SEC_1": {
         "sub-type": "md",
