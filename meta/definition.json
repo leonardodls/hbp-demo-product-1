@@ -602,7 +602,7 @@
             },
             "embedded": [
               {
-                "item-code": "Chapter_6_Building_A_Model/Emb_Test_1",
+                "item-code": "Chapter_6_Building_A_Model/08_Assessment/Emb_Test_1",
                 "name": "Emb Test 1",
                 "resource": "RE_CH_6_SEC_4_ET_1",
                 "item-type": "resource",
