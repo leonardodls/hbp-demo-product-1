@@ -57,7 +57,7 @@
             "questiondata": [
               {
                 "text":
-                  "<p>Suppose Le Napoleon believes it can charge 10% more for its pastries at the proposed Bloomington bakery, that it had originally thought. Assuming all other inputs and decision variables remained constant, what would be the effect on the model:</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "<p><span style='font-weight:600'>Question 1.</span><br/>Suppose Le Napoleon believes it can charge 10% more for its pastries at the proposed Bloomington bakery, that it had originally thought. Assuming all other inputs and decision variables remained constant, what would be the effect on the model:</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -126,7 +126,7 @@
             "questiondata": [
               {
                 "text":
-                  "<p>Le Napoleon has hired a new manager, Charlene Wu. Charlene is trying to build a model to help her determine how to save for retirement. Which of the following would be an output of Charlene’s saving model:</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "<p><p><span style='font-weight:600'>Question 2.</span><br/>Le Napoleon has hired a new manager, Charlene Wu. Charlene is trying to build a model to help her determine how to save for retirement. Which of the following would be an output of Charlene’s saving model:</p><a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
