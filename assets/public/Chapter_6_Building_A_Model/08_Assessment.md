@@ -25,12 +25,6 @@ Please use the following assumptions when building out your model:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-216","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_6_Building_A_Model/08_Assessment/Emb_Test_1","data":{}}} 
-```
+![](./Chapter_6_Building_A_Model/media/08_Assessment/image2.png)
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_6_Building_A_Model/08_Assessment/Emb_Test_2","data":{}}} 
-```
+![](./Chapter_6_Building_A_Model/media/08_Assessment/image3.png)
