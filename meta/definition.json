@@ -690,13 +690,6 @@
                 "resource": "RE_CH_6_SEC_4_ET_1",
                 "item-type": "resource",
                 "tracking": false
-              },
-              {
-                "item-code": "Chapter_6_Building_A_Model/08_Assessment/Emb_Test_2",
-                "name": "Emb Test 2",
-                "resource": "RE_CH_6_SEC_4_ET_2",
-                "item-type": "resource",
-                "tracking": false
               }
             ]
           }
@@ -1035,18 +1028,7 @@
         "test": {
           "url": "ACTIVITY_CH_6_SEC_4_ET_1"
         },
-        "description": "MCQ Question 1",
-        "learning-objectives": []
-      },
-      "RE_CH_6_SEC_4_ET_2": {
-        "sub-type": "test",
-        "tags": [
-          "Test"
-        ],
-        "test": {
-          "url": "ACTIVITY_CH_6_SEC_4_ET_2"
-        },
-        "description": "MCQ Question 2",
+        "description": "Assessment Questions",
         "learning-objectives": []
       }
     },
