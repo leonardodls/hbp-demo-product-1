@@ -25,30 +25,12 @@ Please use the following assumptions when building out your model:
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-216","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-Question 2
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_6_Building_A_Model/08_Assessment/Emb_Test_1","data":{}}} 
+```
 
-Suppose Le Napoleon believes it can charge 10% more for its pastries at the proposed Bloomington bakery, that it had originally thought. Assuming all other inputs and decision variables remained constant, what would be the effect on the model:
-
-1.  Revenue, net profit and NPV would decrease
-
-2.  Revenue and net profit would increase but NPV would decrease
-
-3.  Revenue, net profit and NPV would increase
-
-4.  Revenue and NPV increase but net profit decreases
-
-\[The correct answer is c.\]
-
-Question 3
-
-Le Napoleon has hired a new manager, Charlene Wu. Charlene is trying to build a model to help her determine how to save for retirement. Which of the following would be an output of Charlene’s saving model:
-
-1.  Amount of Charlene’s salary she should save each month
-
-2.  Charlene’s monthly salary
-
-3.  Amount Charlene receives as annual bonus
-
-4.  Expected annual growth rate of Charlene’s salary
-
-\[The correct answer is a.\]
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_6_Building_A_Model/08_Assessment/Emb_Test_2","data":{}}} 
+```
