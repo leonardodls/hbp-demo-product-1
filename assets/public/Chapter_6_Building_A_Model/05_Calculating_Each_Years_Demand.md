@@ -47,6 +47,8 @@ Step 1: Using the above data, let us fill in the inputs and decision variables f
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-212","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
+### Let us now move to Step 2
+
 Step 2: Calculate Steady state growth rate in Cell B10 (beginning growth rate \* steady state level of demand)
 
 ```
@@ -54,12 +56,16 @@ Step 2: Calculate Steady state growth rate in Cell B10 (beginning growth rate \*
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
+### Let us now move to Step 3
+
 Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using, demand = **a - bp**)
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-214","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
+
+### Let us now move to Step 4
 
 Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
