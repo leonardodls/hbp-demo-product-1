@@ -72,9 +72,9 @@
       "type": "cosmatt_1"
     }
   },
-  "definition": {
-   "learning-objectives": {
-          "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
+ "definition": {
+        "learning-objectives": {
+		 "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
             "learning-objectives": {
 				"Identifying the Model’s key relationships": {
 					"learning-objectives": {}
@@ -82,16 +82,27 @@
 				"Setting up a Data Table": {
 					"learning-objectives": {}
 				},
-				"Using the Auditing Tool ": {
+				"Using the Auditing Tool": {
 					"learning-objectives": {}
 				}
 			}
-        },
-		"Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
-		 "learning-objectives": {}
-		},
-		"Learn to increase spreadsheet readability": {
-		 "learning-objectives": {
+         
+          },
+          "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
+            "learning-objectives": {
+				"Modeling Bakery Building Costs": {
+					"learning-objectives": {}
+				},
+				"Editing a Data Table": {
+					"learning-objectives": {}
+				},
+				"Helpful commands": {
+					"learning-objectives": {}
+				}
+			}
+          },
+          "Learn to increase spreadsheet readability": {
+            "learning-objectives": {
 				"Using Comments or Text Boxes": {
 					"learning-objectives": {}
 				},
@@ -102,9 +113,9 @@
 					"learning-objectives": {}
 				}
 			}
-		},
-		"Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
-		 "learning-objectives": {
+          },
+          "Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
+            "learning-objectives": {
 				"Using Influence Charts to Understand Model Relationships": {
 					"learning-objectives": {}
 				},
@@ -112,22 +123,92 @@
 					"learning-objectives": {}
 				}
 			}
-		 },
-		"Learn to build a spreadsheet model to calculate NPV": {
-		 "learning-objectives": {
+          },
+          "Learn to build a spreadsheet model to calculate NPV": {
+            "learning-objectives": {
 				"Modeling the Timing of Cash Flows": {
 					"learning-objectives": {}
 				},
 				"Modeling Bakery Building Costs": {
 					"learning-objectives": {}
 				},
-				"Helpful commands": {
+				"Calculating Each Year’s Demand": {
+					"learning-objectives": {}
+				},
+				"Modeling Unit Cost": {
+					"learning-objectives": {}
+				},
+				"Identifying the Model’s key relationships": {
 					"learning-objectives": {}
 				}
 			}
-		}
-	},
-    
+          },
+          "To understand the concept of inertia in rotating objects": {
+            "learning-objectives": {}
+          },
+          "To understand the concept of force": {
+            "learning-objectives": {}
+          },
+          "To understand how RMS applies to current and torque in a drive system": {
+            "learning-objectives": {}
+          },
+          "To understand how torque is derived and is applied to drive systems": {
+            "learning-objectives": {}
+          },
+          "To understand the concept of power and energy in electrical theory": {
+            "learning-objectives": {}
+          },
+          "To understand the meaning of 'servo' within the context of drive systems": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Building Basic motion profiles in response to move requirements": {
+        "learning-objectives": {}
+      },
+      "Understanding differences between the treatment of linear and rotary motion": {
+        "learning-objectives": {}
+      },
+      "Understanding effects of changing the shape of the profile": {
+        "learning-objectives": {}
+      },
+      "Understanding how to evaluate a rotary load, incorporating inertia and including friction losses": {
+        "learning-objectives": {}
+      },
+      "Applying a motion profile to calculate the torque and speed requirements": {
+        "learning-objectives": {}
+      },
+      "Understanding how peak and continuous operating points are displayed in tabular and graphical forms": {
+        "learning-objectives": {}
+      },
+      "Compare the torque and speed required by the rotary load with the capabilities of various motors": {
+        "learning-objectives": {}
+      },
+      "Understand impact of adding coupling, motor inertia and losses": {
+        "learning-objectives": {}
+      },
+      "Plot the torque-speed curve of the motor with the operating points of the load": {
+        "learning-objectives": {}
+      },
+      "Be able to select an appropriate drive for the motor": {
+        "learning-objectives": {}
+      },
+      "Understanding the impact of transmission ratio on the choice of motor": {
+        "learning-objectives": {}
+      },
+      "Get to know the commonly available types of mechanical transmission systems": {
+        "learning-objectives": {}
+      },
+      "Learn how to deal with the added inertia and losses": {
+        "learning-objectives": {}
+      },
+      "Analyzing simple linear applications, including linear motion profiles and load configurations": {
+        "learning-objectives": {}
+      },
+      "To get an understanding of screw-type, and tangential (belt, chain or rack and pinion) mechanical systems and the impact on the transmission ratio": {
+        "learning-objectives": {}
+      }
+    },
     "tags": {
       "Reading": {
         "tags": {}
@@ -880,7 +961,7 @@
           "url": "Chapter_6_Building_A_Model/01_Should_LeNapoleon_Open_A_New_Bakery.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to conduct sensitivity analysis/Data Tables"]
+        "learning-objectives": []
       },
       "RE_CH_6_SEC_2": {
         "sub-type": "md",
