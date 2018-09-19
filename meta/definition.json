@@ -88,17 +88,7 @@
 			}
         },
 		"Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
-		 "learning-objectives": {
-				"Modeling Bakery Building Costs": {
-					"learning-objectives": {}
-				},
-				"Editing a Data Table": {
-					"learning-objectives": {}
-				},
-				"Helpful commands": {
-					"learning-objectives": {}
-				}
-			}
+		 "learning-objectives": {}
 		},
 		"Learn to increase spreadsheet readability": {
 		 "learning-objectives": {
@@ -136,6 +126,7 @@
 				}
 			}
 		}
+	},
     
     "tags": {
       "Reading": {
@@ -867,7 +858,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model"]
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
@@ -878,7 +869,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
       },
       "RE_CH_6_SEC_1": {
         "sub-type": "md",
@@ -889,7 +880,7 @@
           "url": "Chapter_6_Building_A_Model/01_Should_LeNapoleon_Open_A_New_Bakery.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to conduct sensitivity analysis"]
+        "learning-objectives": ["Learn to conduct sensitivity analysis/Data Tables"]
       },
       "RE_CH_6_SEC_2": {
         "sub-type": "md",
