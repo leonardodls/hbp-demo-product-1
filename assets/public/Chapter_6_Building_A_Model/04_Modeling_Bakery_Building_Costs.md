@@ -2,11 +2,11 @@
 
 Let us calculate the total cost of constructing the bakery. In modeling the bakery building costs (**BBC**) as a function of the annual capacity **x** of the bakery it is tempting to assume **BBC** = **kx** (where **x** = number of pastries that can be baked per year and $**k** is the per unit cost of pastry capacity). **Usually, however, the cost of building is made up of a fixed cost plus a per-unit cost**. We will follow this route and assume
 
-***BBC = y + kx***
-`
+
+```
 [math]
-\(\mathbf{\ }\)
-`
+\[\mathbf{BBC\  = \ y\  + \ kx\ }\]
+```
 
 That is, there is a fixed cost of $**y** incurred in building a bakery.
 
