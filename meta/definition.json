@@ -142,6 +142,22 @@
 					"learning-objectives": {}
 				}
 			}
+        },
+		 "Learn to conduct sensitivity analysis": {
+            "learning-objectives": {
+				"Data Tables": {
+					"learning-objectives": {}
+				},
+				"Two way Data Tables": {
+					"learning-objectives": {}
+				},
+				"Goal Seek": {
+					"learning-objectives": {}
+				},
+				"Best, Worst and Most Likely scenarios for your model": {
+					"learning-objectives": {}
+				}
+			}
         }
     },
     "tags": {
@@ -830,7 +846,7 @@
           "url": "Chapter_1_Introduction/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -852,7 +868,7 @@
           "url": "Chapter_2_Model_Building_Blocks/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
       },
       "RE_CH_3_SEC_1": {
         "sub-type": "md",
@@ -863,7 +879,7 @@
           "url": "Chapter_3_Model_Terminology/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to increase spreadsheet readability/Using Comments or Text Boxes"]
       },
       "RE_CH_4_SEC_1": {
         "sub-type": "md",
@@ -874,7 +890,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model/Using Influence Charts to Understand Model Relationships"]
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
@@ -885,7 +901,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
       },
       "RE_CH_6_SEC_1": {
         "sub-type": "md",
@@ -896,7 +912,7 @@
           "url": "Chapter_6_Building_A_Model/01_Should_LeNapoleon_Open_A_New_Bakery.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to conduct sensitivity analysis/Data Tables"]
       },
       "RE_CH_6_SEC_2": {
         "sub-type": "md",
