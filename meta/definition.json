@@ -74,89 +74,68 @@
   },
   "definition": {
    "learning-objectives": {
-      "Gain adequate knowledge of the fundamentals of dynamic motion and mechanical and electrical properties": {
-        "learning-objectives": {
-          "To understand how SI units make engineering calculations more straight forward": {
-            "learning-objectives": {}
-          },
-          "To understand this fundamental unit of angle": {
-            "learning-objectives": {}
-          },
-          "To appreciate basic electrical theory necessary for the understanding of drive systems": {
-            "learning-objectives": {}
-          },
-          "To understand how dynamic quantities are necessary for the understanding of drive systems": {
-            "learning-objectives": {}
-          },
-          "To understand the concept of mass and how it differs from weight": {
-            "learning-objectives": {}
-          },
-          "To understand the concept of inertia in rotating objects": {
-            "learning-objectives": {}
-          },
-          "To understand the concept of force": {
-            "learning-objectives": {}
-          },
-          "To understand how RMS applies to current and torque in a drive system": {
-            "learning-objectives": {}
-          },
-          "To understand how torque is derived and is applied to drive systems": {
-            "learning-objectives": {}
-          },
-          "To understand the concept of power and energy in electrical theory": {
-            "learning-objectives": {}
-          },
-          "To understand the meaning of 'servo' within the context of drive systems": {
-            "learning-objectives": {}
-          }
-        }
-      },
-      "Building Basic motion profiles in response to move requirements": {
-        "learning-objectives": {}
-      },
-      "Understanding differences between the treatment of linear and rotary motion": {
-        "learning-objectives": {}
-      },
-      "Understanding effects of changing the shape of the profile": {
-        "learning-objectives": {}
-      },
-      "Understanding how to evaluate a rotary load, incorporating inertia and including friction losses": {
-        "learning-objectives": {}
-      },
-      "Applying a motion profile to calculate the torque and speed requirements": {
-        "learning-objectives": {}
-      },
-      "Understanding how peak and continuous operating points are displayed in tabular and graphical forms": {
-        "learning-objectives": {}
-      },
-      "Compare the torque and speed required by the rotary load with the capabilities of various motors": {
-        "learning-objectives": {}
-      },
-      "Understand impact of adding coupling, motor inertia and losses": {
-        "learning-objectives": {}
-      },
-      "Plot the torque-speed curve of the motor with the operating points of the load": {
-        "learning-objectives": {}
-      },
-      "Be able to select an appropriate drive for the motor": {
-        "learning-objectives": {}
-      },
-      "Understanding the impact of transmission ratio on the choice of motor": {
-        "learning-objectives": {}
-      },
-      "Get to know the commonly available types of mechanical transmission systems": {
-        "learning-objectives": {}
-      },
-      "Learn how to deal with the added inertia and losses": {
-        "learning-objectives": {}
-      },
-      "Analyzing simple linear applications, including linear motion profiles and load configurations": {
-        "learning-objectives": {}
-      },
-      "To get an understanding of screw-type, and tangential (belt, chain or rack and pinion) mechanical systems and the impact on the transmission ratio": {
-        "learning-objectives": {}
-      }
-    },
+          "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
+            "learning-objectives": {
+				"Identifying the Model’s key relationships": {
+					"learning-objectives": {}
+				},
+				"Setting up a Data Table": {
+					"learning-objectives": {}
+				},
+				"Using the Auditing Tool ": {
+					"learning-objectives": {}
+				}
+			}
+        },
+		"Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
+		 "learning-objectives": {
+				"Modeling Bakery Building Costs": {
+					"learning-objectives": {}
+				},
+				"Editing a Data Table": {
+					"learning-objectives": {}
+				},
+				"Helpful commands": {
+					"learning-objectives": {}
+				}
+			}
+		},
+		"Learn to increase spreadsheet readability": {
+		 "learning-objectives": {
+				"Using Comments or Text Boxes": {
+					"learning-objectives": {}
+				},
+				"Using Name Ranges": {
+					"learning-objectives": {}
+				},
+				"Color Coding": {
+					"learning-objectives": {}
+				}
+			}
+		},
+		"Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
+		 "learning-objectives": {
+				"Using Influence Charts to Understand Model Relationships": {
+					"learning-objectives": {}
+				},
+				"Developing an Influence Chart": {
+					"learning-objectives": {}
+				}
+			}
+		 },
+		"Learn to build a spreadsheet model to calculate NPV": {
+		 "learning-objectives": {
+				"Modeling the Timing of Cash Flows": {
+					"learning-objectives": {}
+				},
+				"Modeling Bakery Building Costs": {
+					"learning-objectives": {}
+				},
+				"Helpful commands": {
+					"learning-objectives": {}
+				}
+			}
+		}
     
     "tags": {
       "Reading": {
@@ -844,7 +823,7 @@
           "url": "Chapter_1_Introduction/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations"]
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -866,7 +845,7 @@
           "url": "Chapter_2_Model_Building_Blocks/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
       },
       "RE_CH_3_SEC_1": {
         "sub-type": "md",
@@ -910,7 +889,7 @@
           "url": "Chapter_6_Building_A_Model/01_Should_LeNapoleon_Open_A_New_Bakery.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to conduct sensitivity analysis"]
       },
       "RE_CH_6_SEC_2": {
         "sub-type": "md",
@@ -979,14 +958,14 @@
         "learning-objectives": []
       },
       "RE_CH_6_SEC_8": {
-        "sub-type": "md",
+        "sub-type": "test",
         "tags": [
-          "Reading"
+          "Test"
         ],
-        "md": {
-          "url": "Chapter_6_Building_A_Model/08_Assessment.md"
+        "test": {
+          "url": "ACTIVITY_CH_6_SEC_4_ET_1"
         },
-        "description": "",
+        "description": "6.8 Assessment Questions",
         "learning-objectives": []
       },
       "RE_CH_7_SEC_1": {
@@ -1009,6 +988,17 @@
           "url": "Chapter_8_Data_Tables/01_Dummy.md"
         },
         "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_4_ET_1": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "test": {
+          "url": "ACTIVITY_CH_6_SEC_4_ET_1"
+        },
+        "description": "Assessment Questions",
         "learning-objectives": []
       }
     },
