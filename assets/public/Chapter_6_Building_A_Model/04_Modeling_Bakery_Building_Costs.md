@@ -15,7 +15,7 @@ That is, there is a fixed cost of $y incurred in building a bakery.
 > If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form 
 > `
 > [math]
-> \(BBC = Fixed\ cost\  + \ kx^{b}\)
+> \(BC = Fixed\ cost\  + \ kx^{b}\)
 > `
 >  , where 
 > `
