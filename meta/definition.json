@@ -75,7 +75,17 @@
  "definition": {
         "learning-objectives": {
 		 "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
-            "learning-objectives": {}
+            "learning-objectives": {
+				"Identifying the Model’s key relationships": {
+					"learning-objectives": {}
+				},
+				"Setting up a Data Table": {
+					"learning-objectives": {}
+				},
+				"Using the Auditing Tool": {
+					"learning-objectives": {}
+				}
+			}
          
           },
           "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
@@ -203,7 +213,7 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "What Is A Spreadsheet Model?",
+            "name": "What is a Spreadsheet Model?",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
             "item-code": "Chapter_1_Introduction/Dummy",
@@ -216,7 +226,7 @@
             }
           },
           {
-            "name": "Situations Where A Spreadsheet Model May Be Useful",
+            "name": "Situations Where a Spreadsheet Model May Be Useful",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_2",
             "item-code": "Chapter_1_Introduction/Dummy",
@@ -312,7 +322,7 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Prescriptive And Descriptive Models",
+            "name": "Prescriptive and Descriptive Models",
             "item-type": "resource",
             "resource": "RE_CH_3_SEC_1",
             "item-code": "Chapter_3_Model_Terminology/Dummy",
@@ -325,7 +335,7 @@
             }
           },
           {
-            "name": "Deterministic And Stochastic Models",
+            "name": "Deterministic and Stochastic Models",
             "item-type": "resource",
             "resource": "RE_CH_3_SEC_1",
             "item-code": "Chapter_3_Model_Terminology/Dummy",
@@ -382,7 +392,7 @@
             }
           },
           {
-            "name": "Spreadsheet Layout And Model Building Blocks",
+            "name": "Spreadsheet Layout and Model Building Blocks",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -395,7 +405,7 @@
             }
           },
           {
-            "name": "Color Coding The Building Blocks",
+            "name": "Color Coding the Building Blocks",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -408,7 +418,7 @@
             }
           },
           {
-            "name": "Use Influence Charts To Help Understand Model Relationships",
+            "name": "Use Influence Charts to Help Understand Model Relationships",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -421,7 +431,7 @@
             }
           },
           {
-            "name": "Use Range Names To Make Formulas Easier To Understand",
+            "name": "Use Range Names to Make Formulas Easier to Understand",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -434,7 +444,7 @@
             }
           },
           {
-            "name": "Use Comments And/Or Text Boxes To Clarify Model Logic",
+            "name": "Use Comments and/or Text Boxes to Clarify Model Logic",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -447,7 +457,7 @@
             }
           },
           {
-            "name": "Use The Copy Command To Efficiently Create Formulas",
+            "name": "Use the Copy Command to Efficiently Create Formulas",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -460,7 +470,7 @@
             }
           },
           {
-            "name": "Test Your Model For Sense And Sensibility",
+            "name": "Test Your Model for Sense and Sensibility",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -473,7 +483,7 @@
             }
           },
           {
-            "name": "Determine Change In Inputs Needed To Change The Final Decision",
+            "name": "Determine Change in Inputs Needed to Change the Final Decision",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -499,7 +509,7 @@
             }
           },
           {
-            "name": "Use The F9 Key Or Evaluate Formula Option To Understand And/Or Debug Complex Formulas",
+            "name": "Use the F9 Key or Evaluate Formula Option to Understand and/or Debug Complex Formulas",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -512,7 +522,7 @@
             }
           },
           {
-            "name": "Set Up A Model To Be Flexible",
+            "name": "Set Up a Model to Be Flexible",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -525,7 +535,7 @@
             }
           },
           {
-            "name": "Use 3-dimensional (3D) Formulas In Multi-sheet Models",
+            "name": "Use 3-dimensional (3D) Formulas in Multi-sheet Models",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -538,7 +548,7 @@
             }
           },
           {
-            "name": "Note The Model's Shortcomings And Limitations",
+            "name": "Note the Model's Shortcomings And Limitations",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -551,7 +561,7 @@
             }
           },
           {
-            "name": "Undo Is Your Friend!",
+            "name": "Undo is Your Friend!",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -573,7 +583,7 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Should Le Napoleon Open A New Bakery?",
+            "name": "Should Le Napoleon Open a New Bakery?",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
             "item-code": "Chapter_6_Building_A_Model/01_Should_LeNapoleon_Open_A_New_Bakery",
@@ -598,7 +608,7 @@
               }
             }
           },
-          {
+		  {
             "name": "Modeling The Timing Of The Cash Flows",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_3",
@@ -638,7 +648,7 @@
             }
           },
           {
-            "name": "Modeling The Unit Cost Of Producing A Pastry",
+            "name": "Modeling the Unit Cost of Producing a Pastry",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_6",
             "item-code": "Chapter_6_Building_A_Model/06_Dummy",
@@ -680,13 +690,13 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Set up the Spreadsheet Model",
+        "name": "Data Tables",
         "item-type": "folder",
         "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model",
         "sub-type": "default",
         "items": [
           {
-            "name": "Entering Inputs And Decision Variables",
+            "name": "Sensitivity Analysis with a One-way Data Table",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
@@ -699,7 +709,7 @@
             }
           },
           {
-            "name": "Entering The Spreadsheet Formulas",
+            "name": "Setting Up a One-way Data Table For NPV Vs. Price",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
@@ -712,7 +722,7 @@
             }
           },
           {
-            "name": "Data Tables",
+            "name": "Interpreting the Data Table Output",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
@@ -725,7 +735,7 @@
             }
           },
           {
-            "name": "Sensitivity Analysis With A One-way Data Table",
+            "name": "Editing a Data Table",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
@@ -738,46 +748,7 @@
             }
           },
           {
-            "name": "Setting Up A One-way Data Table For NPV Vs. Price",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Interpreting The Data Table Output",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Editing A Data Table",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Data Tables And Spreadsheet Calculation Options",
+            "name": "Data Tables and Spreadsheet Calculation Options",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
@@ -880,7 +851,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon"]
+        "learning-objectives": ["Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model/Using Influence Charts to Understand Model Relationships"]
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
