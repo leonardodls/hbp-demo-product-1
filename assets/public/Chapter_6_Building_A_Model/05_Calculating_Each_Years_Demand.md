@@ -19,9 +19,9 @@ How can we determine **a** and **b** for our demand curve?
 
 Placing the values of **a** and **b** in cells rather than directly in formulas will make it easy to change the values of a and b and determine how this impacts the bakery's projected viability.
 
-Other Formulas:
-
-A linear demand curve is probably unrealistic because if price is sufficiently large this equation predicts negative demand. Despite this fact, many analysts utilize a linear demand curve. Many analysts also assume ***demand = ap<sup>-b</sup>***. This is called the power or constant elasticity demand curve.
+> Other Formulas:
+> 
+> A linear demand curve is probably unrealistic because if price is sufficiently large this equation predicts negative demand. Despite this fact, many analysts utilize a linear demand curve. Many analysts also assume **demand = ap<sup>-b</sup>**. This is called the power or constant elasticity demand curve.
 
 For demand after year 1 we will use a two-stage growth model. We assume that demand will grow at a rather large rate (say 15%) for a given number of years (say 5). Thereafter the annual growth rate in demand will reach a reduced or "steady state" level which is a given fraction (say 1/3) of the initial growth rate.
 
@@ -64,13 +64,10 @@ Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 201
 
 Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: (
-    `
-    [math]
-    \(= if(D15 < = \ \$ B7 + 1,\$ B8,\ \$ B10\)
-    `
-    ).  
+1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(if(D15 \<= $B7 + 1, $B8, $b10)*.  
+      
     We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1.  
+      
     Recall from a prior section that a $ sign before the row letter of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the column number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
 
 2.  As long as we are in the fast growth phase, demand grows by 15%. After the fast growth phase is over, demand grows by 5%. Copying the formula in D18 to the range E18 through L18 generates the growth rate in demand through 2022.
