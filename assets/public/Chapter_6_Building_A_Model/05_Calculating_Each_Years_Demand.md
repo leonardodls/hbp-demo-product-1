@@ -64,7 +64,7 @@ Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 201
 
 Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(if(D15 \<= $B7 + 1, $B8, $b10)*.  
+1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(if(D15 \&lt;= $B7 + 1, $B8, $b10)*.  
       
     We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1.  
       

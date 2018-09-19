@@ -35,6 +35,10 @@ Step 1: Using the above data, fill in the following inputs in the spreadsheet mo
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-210","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverride":{"height":"635px"}}}} 
 ```
 
+\<br\>
+
+\<br\>
+
 Step 2: Now calculate the total cost of construction or the bakery building cost (BBC) using the above equation.  We will assume construction costs are paid on January 1st, 2012.
 
 ```
