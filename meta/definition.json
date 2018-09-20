@@ -212,7 +212,7 @@
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
         "items": [
-           {
+		 {
             "name": "The Company",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
@@ -225,7 +225,7 @@
               }
             }
           },
-		  {
+          {
             "name": "What is a Spreadsheet Model?",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
@@ -289,7 +289,7 @@
           {
             "name": "Model Outputs",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_2",
+            "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
             "tracking": true,
             "attribs": {
@@ -302,7 +302,7 @@
           {
             "name": "Model Inputs",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_3",
+            "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
             "tracking": true,
             "attribs": {
@@ -315,7 +315,7 @@
           {
             "name": "Decision Variables",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_4",
+            "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
             "tracking": true,
             "attribs": {
@@ -328,7 +328,7 @@
           {
             "name": "Model Calculations",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_5",
+            "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
             "tracking": true,
             "attribs": {
@@ -363,7 +363,7 @@
           {
             "name": "Deterministic and Stochastic Models",
             "item-type": "resource",
-            "resource": "RE_CH_3_SEC_2",
+            "resource": "RE_CH_3_SEC_1",
             "item-code": "Chapter_3_Model_Terminology/Dummy",
             "tracking": true,
             "attribs": {
@@ -420,7 +420,7 @@
           {
             "name": "Spreadsheet Layout and Model Building Blocks",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_2",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -433,7 +433,7 @@
           {
             "name": "Color Coding the Building Blocks",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_3",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -446,7 +446,7 @@
           {
             "name": "Use Influence Charts to Help Understand Model Relationships",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_4",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -459,7 +459,7 @@
           {
             "name": "Use Range Names to Make Formulas Easier to Understand",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_5",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -472,7 +472,7 @@
           {
             "name": "Use Comments and/or Text Boxes to Clarify Model Logic",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_6",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -485,7 +485,7 @@
           {
             "name": "Use the Copy Command to Efficiently Create Formulas",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_7",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -498,7 +498,7 @@
           {
             "name": "Test Your Model for Sense and Sensibility",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_8",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -511,7 +511,7 @@
           {
             "name": "Determine Change in Inputs Needed to Change the Final Decision",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_9",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -524,7 +524,7 @@
           {
             "name": "Error Trap Your Formulas",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_10",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -537,7 +537,7 @@
           {
             "name": "Use the F9 Key or Evaluate Formula Option to Understand and/or Debug Complex Formulas",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_11",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -550,7 +550,7 @@
           {
             "name": "Set Up a Model to Be Flexible",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_12",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -563,7 +563,7 @@
           {
             "name": "Use 3-dimensional (3D) Formulas in Multi-sheet Models",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_13",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -576,7 +576,7 @@
           {
             "name": "Note the Model's Shortcomings And Limitations",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_14",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -589,7 +589,7 @@
           {
             "name": "Undo is Your Friend!",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_15",
+            "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
             "tracking": true,
             "attribs": {
@@ -737,7 +737,7 @@
           {
             "name": "Setting Up a One-way Data Table For NPV Vs. Price",
             "item-type": "resource",
-            "resource": "RE_CH_7_SEC_2",
+            "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
             "tracking": true,
             "attribs": {
@@ -750,7 +750,7 @@
           {
             "name": "Interpreting the Data Table Output",
             "item-type": "resource",
-            "resource": "RE_CH_7_SEC_3",
+            "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
             "tracking": true,
             "attribs": {
@@ -763,7 +763,7 @@
           {
             "name": "Editing a Data Table",
             "item-type": "resource",
-            "resource": "RE_CH_7_SEC_4",
+            "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
             "tracking": true,
             "attribs": {
@@ -776,7 +776,7 @@
           {
             "name": "Data Tables and Spreadsheet Calculation Options",
             "item-type": "resource",
-            "resource": "RE_CH_7_SEC_5",
+            "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
             "tracking": true,
             "attribs": {
@@ -789,7 +789,7 @@
           {
             "name": "Exercise",
             "item-type": "resource",
-            "resource": "RE_CH_7_SEC_6",
+            "resource": "RE_CH_7_SEC_1",
             "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model/Dummy",
             "tracking": true,
             "attribs": {
