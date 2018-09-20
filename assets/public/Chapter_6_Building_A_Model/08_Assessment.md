@@ -6,7 +6,7 @@ Given the success of the bakery in Bloomington, Le Napoleon is now considering o
 
 Please use the following assumptions when building out your model:
 
-1.  Please colour-code the model according to our color-coding convention: yellow for Inputs, blue for Decision Variables, orange for Calculations, and gray for Outputs
+1.  Please colour-code the model according to our color-coding convention: yellow for Inputs, **blue** for Decision Variables, **orange** for Calculations, and **gray** for Outputs
 
 2.  For the cost of constructing the bakery, assume the formula we used earlier which is Bakery Building Cost = Fixed Cost + Unit Cost of Capacity x Total Annual Capacity, where the fixed cost of construction is $500,000, each unit of capacity costs $4.00 and 400,000 pastries can be baked per year.
 
