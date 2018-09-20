@@ -877,7 +877,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
+        "learning-objectives": ["Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model/Using Influence Charts to Understand Model Relationships"]
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
@@ -932,7 +932,7 @@
           "url": "Chapter_6_Building_A_Model/04_Modeling_Bakery_Building_Costs.md"
         },
         "description": "",
-        "learning-objectives": ["rn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
+        "learning-objectives": []
       },
       "RE_CH_6_SEC_5": {
         "sub-type": "md",
@@ -987,7 +987,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to conduct sensitivity analysis"]
+        "learning-objectives": []
       },
       "RE_CH_8_SEC_1": {
         "sub-type": "md",
