@@ -47,14 +47,14 @@ Step 1: Using the above data, let us fill in the inputs and decision variables f
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-212","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-Step 2: Calculate Steady state growth rate in Cell B10 (beginning growth rate \* steady state level of demand)
+Step 2: Calculate Steady state growth rate in Cell B10 (ie, beginning growth rate \* steady state level of demand)
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using, demand = **a - bp**)
+Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above, demand = **a** - **bp**)
 
 ```
 [cosmatt-widget]
