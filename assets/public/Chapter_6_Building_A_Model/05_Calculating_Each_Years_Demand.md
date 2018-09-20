@@ -7,7 +7,7 @@ Initially we will assume a **Year 1 price (p)** of $3.00. For simplicity, we wil
 
 ```
 [math]
-\[Year\ 1\ demand\  = \ \mathbf{a}\mathbf{-}\mathbf{\text{bp}}\]
+\[Year\ 1\ demand\  = \ \mathbf{a - bp}\]
 ```
 
 How can we determine **a** and **b** for our demand curve?
@@ -16,7 +16,7 @@ How can we determine **a** and **b** for our demand curve?
 
   - The parameter **b** is our estimated loss in annual demand if we increase the price by $1. We will assume **b** = 60,000.
 
-Placing the values of **a** and **b** in cells rather than directly in formulas will make it easy to change the values of a and b and determine how this impacts the bakery's projected viability.
+Placing the values of **a** and **b** in cells rather than directly in formulas will make it easy to change the values of **a** and **b** and determine how this impacts the bakery's projected viability.
 
 > Other Formulas:
 > 
