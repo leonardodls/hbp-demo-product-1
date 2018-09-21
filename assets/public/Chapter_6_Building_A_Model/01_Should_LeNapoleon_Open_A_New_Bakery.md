@@ -8,11 +8,11 @@ Le Napoleon is considering opening up a new bakery in Bloomington, Indiana. You 
 
 **Steps 1-2 Of The Model-building Process**
 
-STEP 1: What do we want to use the model to accomplish?
+**STEP 1:** What do we want to use the model to accomplish?
 
 We want to determine whether or not Le Napoleon should open the new bakery.
 
-STEP 2: To accomplish our goal, what output quantities must be computed?
+**STEP 2:** To accomplish our goal, what output quantities must be computed?
 
 If the NPV of the cash flows from the bakery is positive, the bakery will enhance overall profitability (even if it may have a negative short term effect,) and probably should be built. Recall from the chapter "Useful Excel Functions" that maximizing NPV instead of the sum of profits ensures that we properly account for the time value of the money.
 
@@ -22,6 +22,6 @@ Since you have not yet begun your studies many of you do not know how to compute
 
 **Step 3: Determining The Decision Variables**
 
-STEP 3: What inputs and decision variables need to be determined in order to compute the needed outputs?
+**STEP 3:** What inputs and decision variables need to be determined in order to compute the needed outputs?
 
 Le Napoleon must determine the size of the bakery and the price to charge for pastries. We will make the bakery size and pastry price for each year of operation decision variables. Determining our spreadsheet inputs will be easier once we have started to work on Step 4 or the model-building process.

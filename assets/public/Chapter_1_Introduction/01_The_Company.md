@@ -1,4 +1,4 @@
-**L**e Napoleon is a bakery specializing in French pastries, now owned by a partnership that includes its two ex-pat French pastry chefs, Michel Toure, whose family moved to Strasbourg from Mali when he was a small child, and Anne-Sophie Le Nguyen, who grew up in the Cognac region.
+Le Napoleon is a bakery specializing in French pastries, now owned by a partnership that includes its two ex-pat French pastry chefs, Michel Toure, whose family moved to Strasbourg from Mali when he was a small child, and Anne-Sophie Le Nguyen, who grew up in the Cognac region.
 
 The two met each other not long after moving to the U.S. and found that not only did they have a shared dream of business ownership but that each had strengths to offset the other's weaknesses. Both have exceedingly refined tastes, but their success lies more in Michel's way with obscure ingredients and techniques and Anne-Sophie's ambition and exceptional understanding of the customer.
 

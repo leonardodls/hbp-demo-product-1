@@ -1,13 +1,13 @@
 ## Calculating Each Year's Demand
 
-We know that each year's price is a decision variable. To simplify our model we will assume Le Napoleon assigns a **Year 1 price** and thereafter price grows by the same percentage (5%) each year.
+We know that each year's price is a decision variable. To simplify our model we will assume Le Napoleon assigns a Year 1 price and thereafter price grows by the same percentage (5%) each year.
 
-Initially we will assume a **Year 1 price (p)** of $3.00. For simplicity, we will assume each year's demand is a linear demand curve of the form
+Initially we will assume a Year 1 price, **p** of $3.00. For simplicity, we will assume each year's demand is a linear demand curve of the form
 
 
 ```
 [math]
-\[Year\ 1\ demand\  = \ \mathbf{a - bp}\]
+\[\mathbf{Demand\  = \ a - bp}\]
 ```
 
 How can we determine **a** and **b** for our demand curve?
@@ -18,15 +18,15 @@ How can we determine **a** and **b** for our demand curve?
 
 Placing the values of **a** and **b** in cells rather than directly in formulas will make it easy to change the values of **a** and **b** and determine how this impacts the bakery's projected viability.
 
-> Other Formulas:
+> Other Formulas
 > 
 > A linear demand curve is probably unrealistic because if price is sufficiently large this equation predicts negative demand. Despite this fact, many analysts utilize a linear demand curve. Many analysts also assume **demand = ap<sup>-b</sup>**. This is called the power or constant elasticity demand curve.
 
 For demand after year 1 we will use a two-stage growth model. We assume that demand will grow at a rather large rate (say 15%) for a given number of years (say 5). Thereafter the annual growth rate in demand will reach a reduced or "steady state" level which is a given fraction (say 1/3) of the initial growth rate.
 
-### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
+#### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
 
-Step 1: Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in Section 6.4.
+**Step 1:** Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in Section 6.4.
 
 1.  Year 1 selling price (**p**)
 
@@ -47,23 +47,28 @@ Step 1: Using the above data, let us fill in the inputs and decision variables f
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-212","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-Step 2: Calculate Steady state growth rate in Cell B10 (ie, beginning growth rate \* steady state level of demand)
+**Step 2:** Calculate Steady state growth rate in Cell B10 (ie, beginning growth rate \* steady state level of demand)
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above, demand = **a** - **bp**)
+**Step 3:** Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above, demand = **a** - **bp**)
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-214","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-Step 4: Let us calculate the Demand Growth rate for Year 2014 - 2022.
+**Step 4:** Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(=if (D15 \<= $B7 + 1, $B8, $b10)*.  
+1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(=if (D15* 
+    `
+    [math]
+    \(< =\)
+    `
+     *$B7 + 1, $B8, $B10)*.  
       
     We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1.  
       

@@ -274,7 +274,7 @@
         "sub-type": "default",
         "items": [
           {
-            "name": "Outputs, Inputs, Decision Variables, And Calculations",
+            "name": "Outputs, Inputs, Decision Variables, and Calculations",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1",
             "item-code": "Chapter_2_Model_Building_Blocks/Dummy",
@@ -574,7 +574,7 @@
             }
           },
           {
-            "name": "Note the Model's Shortcomings And Limitations",
+            "name": "Note the Model's Shortcomings and Limitations",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_14",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -635,7 +635,7 @@
             }
           },
 		  {
-            "name": "Modeling The Timing Of The Cash Flows",
+            "name": "Modeling the Timing of the Cash Flows",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_3",
             "item-code": "Chapter_6_Building_A_Model/03_Dummy",
