@@ -1,13 +1,13 @@
 ## Calculating Each Year's Demand
 
-We know that each year's price is a decision variable. To simplify our model we will assume Le Napoleon assigns a **Year 1 price** and thereafter price grows by the same percentage (5%) each year.
+We know that each year's price is a decision variable. To simplify our model we will assume Le Napoleon assigns a Year 1 price and thereafter price grows by the same percentage (5%) each year.
 
-Initially we will assume a **Year 1 price (p)** of $3.00. For simplicity, we will assume each year's demand is a linear demand curve of the form
+Initially we will assume a Year 1 price, **p** of $3.00. For simplicity, we will assume each year's demand is a linear demand curve of the form
 
 
 ```
 [math]
-\[Year\ 1\ demand\  = \ \mathbf{a - bp}\]
+\[demand\  = \ \mathbf{a - bp}\]
 ```
 
 How can we determine **a** and **b** for our demand curve?
@@ -24,7 +24,7 @@ Placing the values of **a** and **b** in cells rather than directly in formulas 
 
 For demand after year 1 we will use a two-stage growth model. We assume that demand will grow at a rather large rate (say 15%) for a given number of years (say 5). Thereafter the annual growth rate in demand will reach a reduced or "steady state" level which is a given fraction (say 1/3) of the initial growth rate.
 
-### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
+#### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
 
 Step 1: Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in Section 6.4.
 

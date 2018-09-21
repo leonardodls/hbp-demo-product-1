@@ -12,7 +12,17 @@ That is, there is a fixed cost of $**y** incurred in building a bakery.
 
 > Other Formulas
 > 
-> If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form **BBC = Fixed cost + kx<sup>b</sup>**, where **0 \< b \< 1**. This will ensure that each additional unit of capacity will incur a smaller cost.
+> If you believe that there is a diminishing cost of adding each unit of capacity you might try a model of the form **BBC = Fixed cost + kx<sup>b</sup>**, where **0** 
+> `
+> [math]
+> \(\mathbf{<}\)
+> `
+>  **b** 
+> `
+> [math]
+> \(\mathbf{<}\)
+> `
+>  **1**. This will ensure that each additional unit of capacity will incur a smaller cost.
 
 ### Let us now start building the model to determine whether opening the new bakery is a good idea. 
 
