@@ -833,7 +833,7 @@
           "url": "Chapter_1_Introduction/01_The_Company.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -1163,8 +1163,7 @@
           "url": "Chapter_6_Building_A_Model/04_Modeling_Bakery_Building_Costs.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"
-		]
+        "learning-objectives": []
       },
       "RE_CH_6_SEC_5": {
         "sub-type": "md",
