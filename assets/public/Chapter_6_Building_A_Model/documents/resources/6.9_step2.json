@@ -8,8 +8,14 @@
 	        },
           "enableframeButton": true
       	},
-      	"cssOverride": {
-      		"height": "635px"
+      	"cssOverrides": {
+          "div.cosmatt-widget": {
+            "height": "635px",
+            "padding-top": 0
+          },
+          "div.cosmatt-widget > div.leonardoPlayerContainer": {
+            "padding-bottom": 0
+          }
       	}
       }
     }

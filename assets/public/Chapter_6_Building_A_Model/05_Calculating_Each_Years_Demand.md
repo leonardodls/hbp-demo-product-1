@@ -1,8 +1,8 @@
 ## Calculating Each Year's Demand
 
-We know that each year's price is a decision variable. To simplify our model we will assume Le Napoleon assigns a Year 1 price and thereafter price grows by the same percentage (5%) each year.
+We know that each year's price is a decision variable. To simplify our model we will assume Le Napoleon assigns a Year 1 price and thereafter price grows by the same percentage (**5%**) each year.
 
-Initially we will assume a Year 1 price, **p** of $3.00. For simplicity, we will assume each year's demand is a linear demand curve of the form
+Initially we will assume a Year 1 price, **p** of **$3.00**. For simplicity, we will assume each year's demand is a linear demand curve of the form
 
 
 ```
@@ -12,9 +12,9 @@ Initially we will assume a Year 1 price, **p** of $3.00. For simplicity, we will
 
 How can we determine **a** and **b** for our demand curve?
 
-  - The parameter **a** is simply the estimated annual demand if we chose a price of $0. Let's suppose 420,000 pastries.
+  - The parameter **a** is simply the estimated annual demand if we chose a price of **$0**. Let's suppose **420,000** pastries.
 
-  - The parameter **b** is our estimated loss in annual demand if we increase the price by $1. We will assume **b** = 60,000.
+  - The parameter **b** is our estimated loss in annual demand if we increase the price by **$1**. We will assume **b** = **60,000**.
 
 Placing the values of **a** and **b** in cells rather than directly in formulas will make it easy to change the values of **a** and **b** and determine how this impacts the bakery's projected viability.
 
@@ -54,7 +54,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-**Step 3:** Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above, demand = **a** - **bp**)
+**Step 3:** Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above, **Demand** = **a** - **bp**)
 
 ```
 [cosmatt-widget]
@@ -63,7 +63,12 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
 
 **Step 4:** Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 \<= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(=if (D15* 
+1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 
+    `
+    [math]
+    \(<\)
+    `
+    \= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(=if (D15* 
     `
     [math]
     \(< =\)
