@@ -833,7 +833,7 @@
           "url": "Chapter_1_Introduction/01_The_Company.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
+        "learning-objectives": []
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -844,7 +844,7 @@
           "url": "Chapter_1_Introduction/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
       },
       "RE_CH_1_SEC_3": {
         "sub-type": "md",
