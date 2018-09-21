@@ -1011,9 +1011,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": [
-			"Using Comments or Text Boxes"
-		]
+        "learning-objectives": []
       },
 	   "RE_CH_5_SEC_6": {
         "sub-type": "md",
@@ -1024,9 +1022,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": [
-			"Using Comments or Text Boxes"
-		]
+        "learning-objectives": []
       },
 	  "RE_CH_5_SEC_7": {
         "sub-type": "md",
@@ -1037,9 +1033,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": [
-			"Helpful commands"
-		]
+        "learning-objectives": []
       },
 	  "RE_CH_5_SEC_8": {
         "sub-type": "md",
@@ -1138,7 +1132,7 @@
           "url": "Chapter_6_Building_A_Model/01_Should_LeNapoleon_Open_A_New_Bakery.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to conduct sensitivity analysis/Data Tables"]
+        "learning-objectives": []
       },
       "RE_CH_6_SEC_2": {
         "sub-type": "md",
