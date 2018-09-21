@@ -385,7 +385,7 @@
           {
             "name": "Steps to Build a Model",
             "item-type": "resource",
-            "resource": "RE_CH_4_SEC_3",
+            "resource": "RE_CH_4_SEC_1",
             "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy",
             "tracking": true,
             "attribs": {
@@ -866,9 +866,7 @@
           "url": "Chapter_1_Introduction/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": [
-			
-		]
+        "learning-objectives": []
       },
       "RE_CH_2_SEC_1": {
         "sub-type": "md",
