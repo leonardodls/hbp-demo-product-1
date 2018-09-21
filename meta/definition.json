@@ -841,7 +841,7 @@
           "url": "Chapter_1_Introduction/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
+        "learning-objectives": []
       },
       "RE_CH_1_SEC_3": {
         "sub-type": "md",
@@ -951,7 +951,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
+        "learning-objectives": []
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
@@ -1138,7 +1138,7 @@
           "url": "Chapter_6_Building_A_Model/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling Bakery Building Costs"]
       },
       "RE_CH_6_SEC_3": {
         "sub-type": "md",
@@ -1149,7 +1149,7 @@
           "url": "Chapter_6_Building_A_Model/03_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling Bakery Building Costs"]
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
       },
       "RE_CH_6_SEC_4": {
         "sub-type": "md",
