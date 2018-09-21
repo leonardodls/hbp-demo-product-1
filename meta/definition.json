@@ -984,7 +984,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to increase spreadsheet readability/Color Coding"]
+        "learning-objectives": ["Learn to increase spreadsheet readability/Color Coding the Building Blocks"]
       },
       "RE_CH_5_SEC_4": {
         "sub-type": "md",
@@ -1138,7 +1138,7 @@
           "url": "Chapter_6_Building_A_Model/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build an influence chart/Use Influence Charts to Help Understand Model Relationships"]
+        "learning-objectives": [Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
       },
       "RE_CH_6_SEC_3": {
         "sub-type": "md",
@@ -1149,7 +1149,7 @@
           "url": "Chapter_6_Building_A_Model/03_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Interpreting the Data Table Output"]
+        "learning-objectives": [Learn to build a spreadsheet model to calculate NPV/Modeling Bakery Building Costs"]
       },
       "RE_CH_6_SEC_4": {
         "sub-type": "md",
@@ -1160,7 +1160,7 @@
           "url": "Chapter_6_Building_A_Model/04_Modeling_Bakery_Building_Costs.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Calculating Net Profit and NPV"]
       },
       "RE_CH_6_SEC_5": {
         "sub-type": "md",
@@ -1171,7 +1171,7 @@
           "url": "Chapter_6_Building_A_Model/05_Calculating_Each_Years_Demand.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Data Table and Spreadsheet Calculation Options"]
+        "learning-objectives": []
       },
       "RE_CH_6_SEC_6": {
         "sub-type": "md",
@@ -1182,7 +1182,7 @@
           "url": "Chapter_6_Building_A_Model/06_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling Unit Cost"]
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Unit Cost of Producing a Pastry"]
       },
       "RE_CH_6_SEC_7": {
         "sub-type": "md",
@@ -1193,7 +1193,7 @@
           "url": "Chapter_6_Building_A_Model/07_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Steps to Build a Model"]
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Deterministic and Stochastic Models"]
       },
       "RE_CH_6_SEC_8": {
         "sub-type": "test",
