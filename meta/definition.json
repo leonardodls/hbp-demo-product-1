@@ -5,8 +5,7 @@
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
     "title": "Spreadsheet Modeling Course Demo",
-    "authors": [
-      {
+    "authors": [{
         "honorific": "Mr",
         "firstname": "John",
         "lastname": "Durrant",
@@ -65,100 +64,99 @@
           "linkedin": "https://www.linkedin.com/in/roger-brookes-356b9922/"
         }
       }
-    ],    
+    ],
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
     "producttype": "courseware",
     "model": {
       "type": "cosmatt_1"
     }
   },
- "definition": {
+  "definition": {
+    "learning-objectives": {
+      "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
         "learning-objectives": {
-		 "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
-            "learning-objectives": {
-				"Identifying the Model’s key relationships": {
-					"learning-objectives": {}
-				},
-				"Setting up a Data Table": {
-					"learning-objectives": {}
-				},
-				"Using the Auditing Tool": {
-					"learning-objectives": {}
-				}
-			}
-         
+          "Identifying the Model’s key relationships": {
+            "learning-objectives": {}
           },
-          "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
-            "learning-objectives": {
-				"Modeling Bakery Building Costs": {
-					"learning-objectives": {}
-				},
-				"Editing a Data Table": {
-					"learning-objectives": {}
-				},
-				"Helpful commands": {
-					"learning-objectives": {}
-				}
-			}
+          "Setting up a Data Table": {
+            "learning-objectives": {}
           },
-          "Learn to increase spreadsheet readability": {
-            "learning-objectives": {
-				"Using Comments or Text Boxes": {
-					"learning-objectives": {}
-				},
-				"Using Name Ranges": {
-					"learning-objectives": {}
-				},
-				"Color Coding": {
-					"learning-objectives": {}
-				}
-			}
-          },
-          "Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
-            "learning-objectives": {
-				"Using Influence Charts to Understand Model Relationships": {
-					"learning-objectives": {}
-				},
-				"Developing an Influence Chart": {
-					"learning-objectives": {}
-				}
-			}
-          },
-          "Learn to build a spreadsheet model to calculate NPV": {
-            "learning-objectives": {
-				"Modeling the Timing of Cash Flows": {
-					"learning-objectives": {}
-				},
-				"Modeling Bakery Building Costs": {
-					"learning-objectives": {}
-				},
-				"Calculating Each Year’s Demand": {
-					"learning-objectives": {}
-				},
-				"Modeling Unit Cost": {
-					"learning-objectives": {}
-				},
-				"Identifying the Model’s key relationships": {
-					"learning-objectives": {}
-				}
-			}
-        },
-		 "Learn to conduct sensitivity analysis": {
-            "learning-objectives": {
-				"Data Tables": {
-					"learning-objectives": {}
-				},
-				"Two way Data Tables": {
-					"learning-objectives": {}
-				},
-				"Goal Seek": {
-					"learning-objectives": {}
-				},
-				"Best, Worst and Most Likely scenarios for your model": {
-					"learning-objectives": {}
-				}
-			}
+          "Using the Auditing Tool": {
+            "learning-objectives": {}
+          }
         }
+      },
+      "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
+        "learning-objectives": {
+          "Modeling Bakery Building Costs": {
+            "learning-objectives": {}
+          },
+          "Editing a Data Table": {
+            "learning-objectives": {}
+          },
+          "Helpful commands": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Learn to increase spreadsheet readability": {
+        "learning-objectives": {
+          "Using Comments or Text Boxes": {
+            "learning-objectives": {}
+          },
+          "Using Name Ranges": {
+            "learning-objectives": {}
+          },
+          "Color Coding": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
+        "learning-objectives": {
+          "Using Influence Charts to Understand Model Relationships": {
+            "learning-objectives": {}
+          },
+          "Developing an Influence Chart": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Learn to build a spreadsheet model to calculate NPV": {
+        "learning-objectives": {
+          "Modeling the Timing of Cash Flows": {
+            "learning-objectives": {}
+          },
+          "Modeling Bakery Building Costs": {
+            "learning-objectives": {}
+          },
+          "Calculating Each Year’s Demand": {
+            "learning-objectives": {}
+          },
+          "Modeling Unit Cost": {
+            "learning-objectives": {}
+          },
+          "Identifying the Model’s key relationships": {
+            "learning-objectives": {}
+          }
+        }
+      },
+      "Learn to conduct sensitivity analysis": {
+        "learning-objectives": {
+          "Data Tables": {
+            "learning-objectives": {}
+          },
+          "Two way Data Tables": {
+            "learning-objectives": {}
+          },
+          "Goal Seek": {
+            "learning-objectives": {}
+          },
+          "Best, Worst and Most Likely scenarios for your model": {
+            "learning-objectives": {}
+          }
+        }
+      }
     },
     "tags": {
       "Reading": {
@@ -177,8 +175,7 @@
   },
   "items": {
     "model": {
-      "introduction": [
-        {
+      "introduction": [{
           "name": "About the Course",
           "item-type": "resource",
           "resource": "RE_About_Course",
@@ -191,28 +188,26 @@
           "resource": "RE_FOREWORD",
           "item-code": "about/foreword",
           "tracking": false
-       },
-       {
+        },
+        {
           "name": "Title",
-          "item-type": "folder",         
+          "item-type": "folder",
           "item-code": "about/title",
           "title": "The Art of Spreadsheet Modeling",
           "publisher": {
-            "name": "Compro Technologies",                
+            "name": "Compro Technologies",
             "copyright": "©2018 Compro Technologies All Rights Reserved"
           },
           "tracking": false
-       }
-      ]       
+        }
+      ]
     },
-    "default": [
-      {
+    "default": [{
         "name": "Introduction",
         "item-type": "folder",
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
-        "items": [
-		      {
+        "items": [{
             "name": "The Company",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
@@ -251,7 +246,7 @@
               }
             }
           },
-		      {
+          {
             "name": "Pre-test",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_4",
@@ -272,8 +267,7 @@
         "item-type": "folder",
         "item-code": "Chapter_2_Model_Building_Blocks",
         "sub-type": "default",
-        "items": [
-          {
+        "items": [{
             "name": "Outputs, Inputs, Decision Variables, and Calculations",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1",
@@ -346,8 +340,7 @@
         "item-type": "folder",
         "item-code": "Chapter_3_Model_Terminology",
         "sub-type": "default",
-        "items": [
-          {
+        "items": [{
             "name": "Prescriptive and Descriptive Models",
             "item-type": "resource",
             "resource": "RE_CH_3_SEC_1",
@@ -381,21 +374,19 @@
         "item-type": "folder",
         "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process",
         "sub-type": "default",
-        "items": [
-          {
-            "name": "Steps to Build a Model",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_1",
-            "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
+        "items": [{
+          "name": "Steps to Build a Model",
+          "item-type": "resource",
+          "resource": "RE_CH_4_SEC_1",
+          "item-code": "Chapter_4_The_Spreadsheet_Model_Building_Process/Dummy",
+          "tracking": true,
+          "attribs": {
+            "mark-as-complete": {
+              "delay": 0,
+              "visible": true
             }
           }
-        ],
+        }],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
@@ -403,8 +394,7 @@
         "item-type": "folder",
         "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling",
         "sub-type": "default",
-        "items": [
-          {
+        "items": [{
             "name": "Introduction",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
@@ -603,12 +593,11 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Building A Model", 
+        "name": "Building A Model",
         "item-type": "folder",
         "item-code": "Chapter_6_Building_A_Model",
         "sub-type": "default",
-        "items": [
-          {
+        "items": [{
             "name": "Should Le Napoleon Open a New Bakery?",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
@@ -634,7 +623,7 @@
               }
             }
           },
-		  {
+          {
             "name": "Modeling the Timing of the Cash Flows",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_3",
@@ -720,8 +709,7 @@
         "item-type": "folder",
         "item-code": "Chapter_7_Set_Up_The_Spreadsheet_Model",
         "sub-type": "default",
-        "items": [
-          {
+        "items": [{
             "name": "Sensitivity Analysis with a One-way Data Table",
             "item-type": "resource",
             "resource": "RE_CH_7_SEC_1",
@@ -815,7 +803,7 @@
         "description": "",
         "learning-objectives": []
       },
-     "RE_FOREWORD": {
+      "RE_FOREWORD": {
         "sub-type": "md",
         "tags": [],
         "md": {
@@ -879,7 +867,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_2_SEC_2": {
+      "RE_CH_2_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -890,7 +878,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_2_SEC_3": {
+      "RE_CH_2_SEC_3": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -901,7 +889,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_2_SEC_4": {
+      "RE_CH_2_SEC_4": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -912,7 +900,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_2_SEC_5": {
+      "RE_CH_2_SEC_5": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -934,7 +922,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_3_SEC_2": {
+      "RE_CH_3_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -954,7 +942,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
@@ -967,7 +955,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_2": {
+      "RE_CH_5_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -978,7 +966,18 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_3": {
+      "RE_CH_5_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": ["Learn to increase spreadsheet readability/Color Coding"]
+      },
+      "RE_CH_5_SEC_4": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -989,7 +988,40 @@
         "description": "",
         "learning-objectives": []
       },
-	   "RE_CH_5_SEC_4": {
+      "RE_CH_5_SEC_5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": ["Learn to increase spreadsheet readability/Using Name Ranges"]
+      },
+      "RE_CH_5_SEC_6": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": ["Learn to increase spreadsheet readability/Using Comments or Text Boxes"]
+      },
+      "RE_CH_5_SEC_7": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
+        },
+        "description": "",
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Helpful commands"]
+      },
+      "RE_CH_5_SEC_8": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1000,7 +1032,7 @@
         "description": "",
         "learning-objectives": []
       },
-	   "RE_CH_5_SEC_5": {
+      "RE_CH_5_SEC_9": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1011,7 +1043,7 @@
         "description": "",
         "learning-objectives": []
       },
-	   "RE_CH_5_SEC_6": {
+      "RE_CH_5_SEC_10": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1022,7 +1054,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_7": {
+      "RE_CH_5_SEC_11": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1033,7 +1065,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_8": {
+      "RE_CH_5_SEC_12": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1044,7 +1076,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_9": {
+      "RE_CH_5_SEC_13": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1055,7 +1087,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_10": {
+      "RE_CH_5_SEC_14": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1066,51 +1098,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_5_SEC_11": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-	  "RE_CH_5_SEC_12": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-	  "RE_CH_5_SEC_13": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-	  "RE_CH_5_SEC_14": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-	   "RE_CH_5_SEC_15": {
+      "RE_CH_5_SEC_15": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1163,7 +1151,7 @@
           "url": "Chapter_6_Building_A_Model/04_Modeling_Bakery_Building_Costs.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
       },
       "RE_CH_6_SEC_5": {
         "sub-type": "md",
@@ -1218,9 +1206,9 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Setting up a Data Table"]
       },
-	  "RE_CH_7_SEC_2": {
+      "RE_CH_7_SEC_2": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1231,7 +1219,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_7_SEC_3": {
+      "RE_CH_7_SEC_3": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1242,7 +1230,7 @@
         "description": "",
         "learning-objectives": []
       },
-	  "RE_CH_7_SEC_4": {
+      "RE_CH_7_SEC_4": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1252,10 +1240,10 @@
         },
         "description": "",
         "learning-objectives": [
-			
-		]
+
+        ]
       },
-	  "RE_CH_7_SEC_5": {
+      "RE_CH_7_SEC_5": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1264,11 +1252,9 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": [
-			
-		]
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Editing a Data Table"]
       },
-	   "RE_CH_7_SEC_6": {
+      "RE_CH_7_SEC_6": {
         "sub-type": "md",
         "tags": [
           "Reading"
