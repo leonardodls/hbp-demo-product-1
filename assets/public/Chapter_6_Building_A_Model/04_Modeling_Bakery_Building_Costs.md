@@ -24,7 +24,7 @@ That is, there is a fixed cost of $**y** incurred in building a bakery.
 > `
 >  **1**. This will ensure that each additional unit of capacity will incur a smaller cost.
 
-### Let us now start building the model to determine whether opening the new bakery is a good idea. 
+#### Let us now start building the model to determine whether opening the new bakery is a good idea. 
 
 ###  
 
@@ -38,7 +38,7 @@ Step 1: Using the above data, fill in the following inputs in the spreadsheet mo
 
 3.  Annual capacity
 
-As described in our modeling rules, we have grouped all our inputs together. In Cells B1 through B14, we will enter values of our inputs and decision variables step by step. Decision variables are color coded in **blue** and input assumptions in **yellow**. Calculations are in **orange**.
+As described in our modeling rules, we have grouped all our inputs together. In Cells B1 through B14, we will enter values of our inputs and decision variables step by step. Decision variables are color coded in blue, input assumptions in and calculations are in orange.
 
 ```
 [cosmatt-widget]
