@@ -63,13 +63,13 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
 
 **Step 4:** Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth using the following formula: *(=if (D15* 
+1.  In cell D18, first compute the 2014 demand growth using the following formula:  
+    *=if (D15* 
     `
     [math]
     \(< =\)
     `
-     *$B7 + 1, $B8, $B10)*.  
-      
+     *$B7 + 1, $B8, $B10)*  
     We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1.  
       
     Recall from a prior section that a $ sign before the row letter of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the column number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
