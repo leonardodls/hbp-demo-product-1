@@ -63,12 +63,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
 
 **Step 4:** Let us calculate the Demand Growth rate for Year 2014 - 2022.
 
-1.  In cell D18, first compute the 2014 demand growth. This uses the formula: if (D15 
-    `
-    [math]
-    \(<\)
-    `
-    \= years till demand steady state + 1, beginning growth rate, steady state growth rate) or using the following formula: *(=if (D15* 
+1.  In cell D18, first compute the 2014 demand growth using the following formula: *(=if (D15* 
     `
     [math]
     \(< =\)
@@ -79,7 +74,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
       
     Recall from a prior section that a $ sign before the row letter of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the column number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
 
-2.  As long as we are in the fast growth phase, demand grows by 15%. After the fast growth phase is over, demand grows by 5%. Copying the formula in D18 to the range E18 through L18 generates the growth rate in demand through 2022.
+2.  As long as we are in the fast growth phase, demand grows by **15%**. After the fast growth phase is over, demand grows by **5%**. Copying the formula in D18 to the range E18 through L18 generates the growth rate in demand through 2022.
 
 ```
 [cosmatt-widget]
