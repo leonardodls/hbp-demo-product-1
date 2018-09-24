@@ -4,7 +4,7 @@ Le Napoleon is considering opening up a new bakery in Bloomington, Indiana. You 
 
 ![](./Chapter_6_Building_A_Model/media/01_Should_LeNapoleon_Open_A_New_Bakery/image1.gif)
 
-Let us use the 7 step model-building process described in [Chapter 4](mailto:ASD) to help get us started
+Let us use the 7 step model-building process described in *Chapter 4* to help get us started
 
 **Steps 1-3 Of The Model-building Process**
 
@@ -14,7 +14,7 @@ We want to determine whether or not Le Napoleon should open the new bakery.
 
 ***Step 2:** To accomplish our goal, what output quantities must be computed?*
 
-If the NPV of the cash flows from the bakery is positive, the bakery will enhance overall profitability (even if it may have a negative short term effect) and probably should be built. Recall from the chapter [Useful Excel Functions](mailto:asd) that maximizing NPV instead of the sum of profits ensures that we properly account for the time value of the money.
+If the NPV of the cash flows from the bakery is positive, the bakery will enhance overall profitability (even if it may have a negative short term effect) and probably should be built. Recall from the chapter *Useful Excel Functions* that maximizing NPV instead of the sum of profits ensures that we properly account for the time value of the money.
 
 Since you have not yet begun your studies many of you do not know how to compute cash flows. In this example, we will assume no taxes and no depreciation of the bakery building costs, which we will assume are immediately expensed. We will also ignore changes in working capital. (Do not worry if you do not understand these terms; after taking accounting you will\!) Under these assumptions cash flows equal profits, which are simply calculated as revenues less expenses.
 
