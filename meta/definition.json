@@ -117,9 +117,6 @@
 		  "Deterministic and Stochastic Models": {
             "learning-objectives": {}
           },
-		  "Modeling the Timing of Cash Flows": {
-            "learning-objectives": {}
-          },
           "Modeling Bakery Building Costs": {
             "learning-objectives": {}
           },
@@ -608,19 +605,6 @@
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_2",
             "item-code": "Chapter_6_Building_A_Model/02_Dummy",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Modeling the Timing of Cash Flows",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_3",
-            "item-code": "Chapter_6_Building_A_Model/03_Dummy",
             "tracking": true,
             "attribs": {
               "mark-as-complete": {
@@ -1134,7 +1118,7 @@
           "url": "Chapter_6_Building_A_Model/03_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
+        "learning-objectives": []
       },
       "RE_CH_6_SEC_4": {
         "sub-type": "md",
@@ -1145,7 +1129,7 @@
           "url": "Chapter_6_Building_A_Model/04_Modeling_Bakery_Building_Costs.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs","Learn to build a spreadsheet model to calculate NPV/Modeling Bakery Building Costs"]
       },
       "RE_CH_6_SEC_5": {
         "sub-type": "md",
@@ -1233,7 +1217,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Editing a Data Table"]
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Editing a Data Table", "Learn to conduct sensitivity analysis/Editing a Data Table"]
       },
       "RE_CH_7_SEC_5": {
         "sub-type": "md",
