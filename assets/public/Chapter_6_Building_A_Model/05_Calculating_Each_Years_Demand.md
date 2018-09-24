@@ -26,7 +26,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
 
 #### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
 
-**Step 1:** Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in [Section 6.4](mailto:asd).
+**Step 1:** Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in *Section 6.4*.
 
 1.  Year 1 selling price (**p**)
 

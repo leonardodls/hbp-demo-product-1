@@ -8,17 +8,17 @@ Let us use the 7 step model-building process described in *Chapter 4* to help ge
 
 **Steps 1-3 Of The Model-building Process**
 
-***Step 1:** What do we want to use the model to accomplish?*
+**Step 1:** What do we want to use the model to accomplish?
 
 We want to determine whether or not Le Napoleon should open the new bakery.
 
-***Step 2:** To accomplish our goal, what output quantities must be computed?*
+**Step 2:** To accomplish our goal, what output quantities must be computed?
 
 If the NPV of the cash flows from the bakery is positive, the bakery will enhance overall profitability (even if it may have a negative short term effect) and probably should be built. Recall from the chapter *Useful Excel Functions* that maximizing NPV instead of the sum of profits ensures that we properly account for the time value of the money.
 
 Since you have not yet begun your studies many of you do not know how to compute cash flows. In this example, we will assume no taxes and no depreciation of the bakery building costs, which we will assume are immediately expensed. We will also ignore changes in working capital. (Do not worry if you do not understand these terms; after taking accounting you will\!) Under these assumptions cash flows equal profits, which are simply calculated as revenues less expenses.
 
-***Step 3:** What inputs and decision variables need to be determined in order to compute the needed outputs?*
+**Step 3:** What inputs and decision variables need to be determined in order to compute the needed outputs?
 
 ![](./Chapter_6_Building_A_Model/media/01_Should_LeNapoleon_Open_A_New_Bakery/image2.gif)
 
