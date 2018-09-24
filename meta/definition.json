@@ -88,33 +88,33 @@
       },
       "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
         "learning-objectives": {
+          "Use the Copy Command to Efficiently Create Formulas": {
+            "learning-objectives": {}
+          },
           "Modeling Bakery Building Costs": {
             "learning-objectives": {}
           },
-          "Editing a Data Table": {
-            "learning-objectives": {}
-          },
-          "Helpful commands": {
+		  "Editing a Data Table": {
             "learning-objectives": {}
           }
         }
       },
       "Learn to increase spreadsheet readability": {
         "learning-objectives": {
-          "Using Comments or Text Boxes": {
+          "Use Comments and/or Text Boxes to Clarify Model Logic": {
             "learning-objectives": {}
           },
-          "Using Name Ranges": {
+		  "Color Coding the Building Blocks": {
             "learning-objectives": {}
           },
-          "Color Coding": {
+          "Using Range Names to Make Formulas Easier to Understand": {
             "learning-objectives": {}
           }
         }
       },
       "Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
         "learning-objectives": {
-          "Using Influence Charts to Understand Model Relationships": {
+          "Use Influence Charts to Help Understand Model Relationships": {
             "learning-objectives": {}
           },
           "Developing an Influence Chart": {
@@ -124,35 +124,41 @@
       },
       "Learn to build a spreadsheet model to calculate NPV": {
         "learning-objectives": {
-          "Modeling the Timing of Cash Flows": {
+          "Steps to Build a Model": {
+            "learning-objectives": {}
+          },
+		  "Deterministic and Stochastic Models": {
+            "learning-objectives": {}
+          },
+		  "Modeling the Timing of Cash Flows": {
             "learning-objectives": {}
           },
           "Modeling Bakery Building Costs": {
             "learning-objectives": {}
           },
-          "Calculating Each Year’s Demand": {
+          "Modeling the Unit Cost of Producing a Pastry": {
             "learning-objectives": {}
           },
-          "Modeling Unit Cost": {
-            "learning-objectives": {}
-          },
-          "Identifying the Model’s key relationships": {
+           "Calculating Net Profit and NPV": {
             "learning-objectives": {}
           }
         }
       },
       "Learn to conduct sensitivity analysis": {
         "learning-objectives": {
-          "Data Tables": {
+          "Sensitivity Analysis with a One-way Data Table": {
             "learning-objectives": {}
           },
-          "Two way Data Tables": {
+          "Setting up a One-way Data Table for NPV vs. Price": {
             "learning-objectives": {}
           },
-          "Goal Seek": {
+          "Interpreting the Data Table Output": {
             "learning-objectives": {}
           },
-          "Best, Worst and Most Likely scenarios for your model": {
+          "Editing a Data Table": {
+            "learning-objectives": {}
+          },
+          "Data Tables and Spreadsheet Calculation Options": {
             "learning-objectives": {}
           }
         }
@@ -447,7 +453,7 @@
             }
           },
           {
-            "name": "Use Range Names to Make Formulas Easier to Understand",
+            "name": "Using Range Names to Make Formulas Easier to Understand",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_5",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
@@ -624,7 +630,7 @@
             }
           },
           {
-            "name": "Modeling the Timing of the Cash Flows",
+            "name": "Modeling the Timing of Cash Flows",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_3",
             "item-code": "Chapter_6_Building_A_Model/03_Dummy",
@@ -821,7 +827,7 @@
           "url": "Chapter_1_Introduction/01_The_Company.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Modeling Bakery Building Costs"]
+        "learning-objectives": []
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -832,7 +838,7 @@
           "url": "Chapter_1_Introduction/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
+        "learning-objectives": []
       },
       "RE_CH_1_SEC_3": {
         "sub-type": "md",
@@ -931,7 +937,7 @@
           "url": "Chapter_3_Model_Terminology/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Deterministic and Stochastic Models"]
       },
       "RE_CH_4_SEC_1": {
         "sub-type": "md",
@@ -942,7 +948,7 @@
           "url": "Chapter_4_The_Spreadsheet_Model_Building_Process/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Identifying the Model’s key relationships"]
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Steps to Build a Model"]
       },
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
@@ -975,7 +981,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to increase spreadsheet readability/Color Coding"]
+        "learning-objectives": ["Learn to increase spreadsheet readability/Color Coding the Building Blocks"]
       },
       "RE_CH_5_SEC_4": {
         "sub-type": "md",
@@ -986,7 +992,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model/Use Influence Charts to Help Understand Model Relationships"]
       },
       "RE_CH_5_SEC_5": {
         "sub-type": "md",
@@ -997,7 +1003,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to increase spreadsheet readability/Using Name Ranges"]
+        "learning-objectives": ["Learn to increase spreadsheet readability/Using Range Names to Make Formulas Easier to Understand"]
       },
       "RE_CH_5_SEC_6": {
         "sub-type": "md",
@@ -1008,7 +1014,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to increase spreadsheet readability/Using Comments or Text Boxes"]
+        "learning-objectives": ["Learn to increase spreadsheet readability/Use Comments and/or Text Boxes to Clarify Model Logic"]
       },
       "RE_CH_5_SEC_7": {
         "sub-type": "md",
@@ -1019,7 +1025,8 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Helpful commands"]
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Use the Copy Command to Efficiently Create Formulas"
+        ]
       },
       "RE_CH_5_SEC_8": {
         "sub-type": "md",
@@ -1129,7 +1136,7 @@
           "url": "Chapter_6_Building_A_Model/02_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model/Developing an Influence Chart"]
       },
       "RE_CH_6_SEC_3": {
         "sub-type": "md",
@@ -1140,7 +1147,7 @@
           "url": "Chapter_6_Building_A_Model/03_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Timing of Cash Flows"]
       },
       "RE_CH_6_SEC_4": {
         "sub-type": "md",
@@ -1173,7 +1180,7 @@
           "url": "Chapter_6_Building_A_Model/06_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Modeling the Unit Cost of Producing a Pastry"]
       },
       "RE_CH_6_SEC_7": {
         "sub-type": "md",
@@ -1184,7 +1191,7 @@
           "url": "Chapter_6_Building_A_Model/07_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to build a spreadsheet model to calculate NPV/Calculating Net Profit and NPV"]
       },
       "RE_CH_6_SEC_8": {
         "sub-type": "test",
@@ -1206,7 +1213,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon/Setting up a Data Table"]
+        "learning-objectives": ["Learn to conduct sensitivity analysis/Sensitivity Analysis with a One-way Data Table"]
       },
       "RE_CH_7_SEC_2": {
         "sub-type": "md",
@@ -1217,7 +1224,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to conduct sensitivity analysis/Setting up a One-way Data Table for NPV vs. Price"]
       },
       "RE_CH_7_SEC_3": {
         "sub-type": "md",
@@ -1228,7 +1235,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to conduct sensitivity analysis/Interpreting the Data Table Output"]
       },
       "RE_CH_7_SEC_4": {
         "sub-type": "md",
@@ -1239,9 +1246,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": [
-
-        ]
+        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Editing a Data Table"]
       },
       "RE_CH_7_SEC_5": {
         "sub-type": "md",
@@ -1252,7 +1257,7 @@
           "url": "Chapter_7_Set_Up_The_Spreadsheet_Model/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": ["Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations/Editing a Data Table"]
+        "learning-objectives": ["Learn to conduct sensitivity analysis/Data Tables and Spreadsheet Calculation Options"]
       },
       "RE_CH_7_SEC_6": {
         "sub-type": "md",
