@@ -450,7 +450,7 @@
             }
           },
           {
-            "name": "Use Comments and/or Text Boxes to Clarify Model Logic",
+            "name": "Use Comments or Text Boxes to Clarify Model Logic",
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_6",
             "item-code": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/Dummy",
