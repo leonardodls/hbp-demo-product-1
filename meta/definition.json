@@ -88,7 +88,10 @@
       },
       "Learn to increase spreadsheet readability": {
         "learning-objectives": {
-		"Color Coding the Building Blocks": {
+          "Use Comments or Text Boxes to Clarify Model Logic": {
+            "learning-objectives": {}
+          },
+		  "Color Coding the Building Blocks": {
             "learning-objectives": {}
           },
           "Using Range Names to Make Formulas Easier to Understand": {
@@ -998,7 +1001,7 @@
           "url": "Chapter_5_Rules_To_Guide_Intelligent_Modeling/01_Dummy.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Learn to increase spreadsheet readability/Use Comments or Text Boxes to Clarify Model Logic"]
       },
       "RE_CH_5_SEC_7": {
         "sub-type": "md",
