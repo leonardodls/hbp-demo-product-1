@@ -22,11 +22,11 @@ Placing the values of **a** and **b** in cells rather than directly in formulas 
 > 
 > A linear demand curve is probably unrealistic because if price is sufficiently large this equation predicts negative demand. Despite this fact, many analysts utilize a linear demand curve. Many analysts also assume **demand = ap<sup>-b</sup>**. This is called the power or constant elasticity demand curve.
 
-For demand after year 1 we will use a two-stage growth model. We assume that demand will grow at a rather large rate (say 15%) for a given number of years (say 5). Thereafter the annual growth rate in demand will reach a reduced or "steady state" level which is a given fraction (say 1/3) of the initial growth rate.
+For demand after year 1 we will use a two-stage growth model. We assume that demand will grow at a rather large rate (**15%**) for a given number of years (**5**). Thereafter the annual growth rate in demand will reach a reduced or "steady state" level which is a given fraction (say **1/3**) of the initial growth rate.
 
 #### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
 
-**Step 1:** Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in Section 6.4.
+**Step 1:** Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in [Section 6.4](mailto:asd).
 
 1.  Year 1 selling price (**p**)
 
@@ -61,7 +61,9 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-214","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-**Step 4:** Let us calculate the Demand Growth rate for Year 2014 - 2022.
+**Step 4:** Let us calculate the Demand Growth rate for the Years 2014 - 2022.
+
+We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1. Sales are assumed to begin on 1/1/2013. At what date should we book all sales and profits for a given year? Since sales and profits are earned throughout the year, it seems reasonable to "book" our sales profits for any year at the year's midpoint. Therefore we will assume the bakery's sales and profits for any year are all received on June 30 of that year.
 
 1.  In cell D18, first compute the 2014 demand growth using the following formula:  
     *=if (D15* 
@@ -70,8 +72,6 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
     \(< =\)
     `
      *$B7 + 1, $B8, $B10)*  
-    We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1.  
-      
     Recall from a prior section that a $ sign before the row letter of a cell reference ensures that when we copy the formula the row reference remains unchanged. Similarly, a $ sign before the column number in a cell reference ensures that when we copy the formula, the column reference remains unchanged.
 
 2.  As long as we are in the fast growth phase, demand grows by **15%**. After the fast growth phase is over, demand grows by **5%**. Copying the formula in D18 to the range E18 through L18 generates the growth rate in demand through 2022.

@@ -1,6 +1,6 @@
 ## Modeling Bakery Building Costs
 
-Let us calculate the total cost of constructing the bakery. In modeling the bakery building costs (**BBC**) as a function of the annual capacity **x** of the bakery it is tempting to assume **BBC** = **kx** (where **x** = number of pastries that can be baked per year and **k** is the per unit cost of pastry capacity in dollars($)). **Usually, however, the cost of building is made up of a fixed cost plus a per-unit cost**. We will follow this route and assume
+Let us calculate the total cost of constructing the bakery. In modeling the bakery building costs (**BBC**) as a function of the annual capacity **x** of the bakery it is tempting to assume **BBC** = **kx** (where **x** = number of pastries that can be baked per year and **k** is the per unit cost of pastry capacity in dollars ($)). **Usually, however, the cost of building is made up of a fixed cost plus a per-unit cost**. We will follow this route and assume
 
 
 ```
@@ -8,7 +8,7 @@ Let us calculate the total cost of constructing the bakery. In modeling the bake
 \[\mathbf{BBC\  = \ y\  + \ kx\ }\]
 ```
 
-That is, there is a fixed cost of **y** incurred in building a bakery in dollars($).
+That is, there is a fixed cost of **$y** incurred in building a bakery.
 
 > Other Formulas
 > 
@@ -25,8 +25,6 @@ That is, there is a fixed cost of **y** incurred in building a bakery in dollars
 >  **1**. This will ensure that each additional unit of capacity will incur a smaller cost.
 
 #### Let us now start building the model to determine whether opening the new bakery is a good idea. 
-
-###  
 
 In our example, we will assume that fixed cost, **y** = **$400,000** incurred in building a bakery and **k** = **$3** per unit of pastry capacity. Let us also assume that the annual capacity of the bakery is **300,000** pastries.
 
