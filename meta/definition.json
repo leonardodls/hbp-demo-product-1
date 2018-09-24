@@ -73,19 +73,6 @@
   },
   "definition": {
     "learning-objectives": {
-      "Learn to Use Excel keyboard shortcuts and functions on the Excel Ribbon": {
-        "learning-objectives": {
-          "Identifying the Model’s key relationships": {
-            "learning-objectives": {}
-          },
-          "Setting up a Data Table": {
-            "learning-objectives": {}
-          },
-          "Using the Auditing Tool": {
-            "learning-objectives": {}
-          }
-        }
-      },
       "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
         "learning-objectives": {
           "Use the Copy Command to Efficiently Create Formulas": {
