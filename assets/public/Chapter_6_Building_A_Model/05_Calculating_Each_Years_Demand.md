@@ -54,7 +54,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-*Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above,* **Demand** = **a** - **bp***)*
+*Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above,* **Demand** = **a** – **bp** *)*
 
 ```
 [cosmatt-widget]
