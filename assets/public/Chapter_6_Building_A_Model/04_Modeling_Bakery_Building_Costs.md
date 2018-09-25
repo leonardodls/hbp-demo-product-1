@@ -43,7 +43,7 @@ As described in our modeling rules, we have grouped all our inputs together. In 
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-210","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"height":"635px","padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-*Step 2: Now calculate the total cost of construction or the bakery building cost (***BBC***) using the above equation.  We will assume construction costs are paid on January 1st, 2012.*
+*Step 2: Now calculate the total cost of construction or the bakery building cost (**BBC**) using the above equation.  We will assume construction costs are paid on January 1st, 2012.*
 
 ```
 [cosmatt-widget]
