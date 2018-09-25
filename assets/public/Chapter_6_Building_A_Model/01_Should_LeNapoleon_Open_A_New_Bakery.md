@@ -6,13 +6,13 @@ Le Napoleon is considering opening up a new bakery in Bloomington, Indiana. You 
 
 Let us use the 7 step model-building process described in [Chapter 4](javascript:null) to help get us started
 
-**Steps 1-3 Of The Model-building Process**
+**Steps 1-3 of the Model-building Process**
 
-*Step 1: What do we want to use the model to accomplish?*
+*__Step 1:__ What do we want to use the model to accomplish?*
 
 We want to determine whether or not Le Napoleon should open the new bakery.
 
-*Step 2: To accomplish our goal, what output quantities must be computed?*
+*__Step 2:__ To accomplish our goal, what output quantities must be computed?*
 
 If the NPV of the cash flows from the bakery is positive, the bakery will enhance overall profitability (even if it may have a negative short term effect) and probably should be built. Recall from the chapter [Useful Excel Functions](javascript:null) that maximizing NPV instead of the sum of profits ensures that we properly account for the time value of the money.
 

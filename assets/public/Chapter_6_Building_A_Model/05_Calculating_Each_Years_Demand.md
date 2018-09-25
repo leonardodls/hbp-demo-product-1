@@ -63,7 +63,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
 
 *__Step 4:__ Let us calculate the Demand Growth rate for the Years 2014 - 2022.*
 
-We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1. Sales are assumed to begin on 1/1/2013. At what date should we book all sales and profits for a given year? Since sales and profits are earned throughout the year, it seems reasonable to "book" our sales profits for any year at the year's midpoint. Therefore we will assume the bakery's sales and profits for any year are all received on June 30 of that year.
+We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1. Sales are assumed to begin on 1/1/2013. At what date should we book all sales and profits for a given year? Since sales and profits are earned throughout the year, it seems reasonable to "book" our sales profits for any year at the year's midpoint. Therefore, we will assume the bakery's sales and profits for any year are all received on June 30 of that year.
 
 1.  In cell D18, first compute the 2014 demand growth using the following formula:  
     *=if (D15* 
