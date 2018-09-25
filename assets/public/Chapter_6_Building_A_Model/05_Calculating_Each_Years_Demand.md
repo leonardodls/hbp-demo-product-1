@@ -47,7 +47,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-212","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-*__Step 2:__ Calculate Steady state growth rate in Cell B10 (ie, beginning growth rate * steady state level of demand)*
+*__Step 2:__ Calculate Steady state growth rate in Cell B10*
 
 ```
 [cosmatt-widget]
