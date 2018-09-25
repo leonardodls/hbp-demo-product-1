@@ -26,7 +26,7 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
 
 #### Let us calculate the demand for Year 1 and then determine the demand growth rate after year 1 
 
-**Step 1:** Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in *Section 6.4*.
+*Step 1: Using the above data, let us fill in the inputs and decision variables for our spreadsheet model that we started building in [Section 6.3](javascript:null). *
 
 1.  Year 1 selling price (**p**)
 
@@ -47,21 +47,21 @@ For demand after year 1 we will use a two-stage growth model. We assume that dem
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-212","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-**Step 2:** Calculate Steady state growth rate in Cell B10 (ie, beginning growth rate \* steady state level of demand)
+*Step 2: Calculate Steady state growth rate in Cell B10 (ie, beginning growth rate \* steady state level of demand)*
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-213","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-**Step 3:** Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above, **Demand** = **a** - **bp**)
+*Step 3: Now let’s begin calculating our outputs. Calculate Demand for year 2013 (in Cell C19) (using the formula above,* **Demand** = **a** - **bp***)*
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-214","meta":{"renderOverrides":{},"enableframeButton":true}}}} 
 ```
 
-**Step 4:** Let us calculate the Demand Growth rate for the Years 2014 - 2022.
+*Step 4: Let us calculate the Demand Growth rate for the Years 2014 - 2022.*
 
 We have numbers above the dates to represent the years that we begin operations. We assume 2013 is Year 1. Sales are assumed to begin on 1/1/2013. At what date should we book all sales and profits for a given year? Since sales and profits are earned throughout the year, it seems reasonable to "book" our sales profits for any year at the year's midpoint. Therefore we will assume the bakery's sales and profits for any year are all received on June 30 of that year.
 
