@@ -28,7 +28,7 @@ That is, there is a fixed cost of **$y** incurred in building a bakery.
 
 In our example, we will assume that fixed cost, **y** = **$400,000** incurred in building a bakery and **k** = **$3** per unit of pastry capacity. Let us also assume that the annual capacity of the bakery is **300,000** pastries.
 
-*__Step 1:__ Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon:*
+*Step 1: Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon:*
 
 1.  Plant fixed cost
 
@@ -43,7 +43,7 @@ As described in our modeling rules, we have grouped all our inputs together. In 
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-210","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"height":"635px","padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-*__Step 2:__ Now calculate the total cost of construction or the bakery building cost (__BBC__) using the above equation.  We will assume construction costs are paid on January 1st, 2012.*
+*Step 2: Now calculate the total cost of construction or the bakery building cost (***BBC***) using the above equation.  We will assume construction costs are paid on January 1st, 2012.*
 
 ```
 [cosmatt-widget]
