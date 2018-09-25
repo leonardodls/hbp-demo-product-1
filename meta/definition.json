@@ -65,7 +65,7 @@
         }
       }
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "description": "This course teaches you how to build spreadsheet models to solve a business problem. This demo uses advanced widgets to demonstrate a fully integrated online version of Harvard Business Publishing’s Spreadsheet Modeling course.",
     "producttype": "courseware",
     "model": {
       "type": "cosmatt_1"
