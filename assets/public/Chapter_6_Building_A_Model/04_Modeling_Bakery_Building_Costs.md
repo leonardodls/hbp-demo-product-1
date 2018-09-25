@@ -28,7 +28,7 @@ That is, there is a fixed cost of **$y** incurred in building a bakery.
 
 In our example, we will assume that fixed cost, **y** = **$400,000** incurred in building a bakery and **k** = **$3** per unit of pastry capacity. Let us also assume that the annual capacity of the bakery is **300,000** pastries.
 
-**Step 1:** Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon:
+*Step 1: Using the above data, fill in the following inputs in the spreadsheet model for Le Napoleon:*
 
 1.  Plant fixed cost
 
