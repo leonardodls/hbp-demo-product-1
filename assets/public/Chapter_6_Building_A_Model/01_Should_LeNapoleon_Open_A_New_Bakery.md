@@ -18,7 +18,7 @@ If the NPV of the cash flows from the bakery is positive, the bakery will enhanc
 
 Since you have not yet begun your studies many of you do not know how to compute cash flows. In this example, we will assume no taxes and no depreciation of the bakery building costs, which we will assume are immediately expensed. We will also ignore changes in working capital. (Do not worry if you do not understand these terms; after taking accounting you will\!) Under these assumptions cash flows equal profits, which are simply calculated as revenues less expenses.
 
-*Step 3: What inputs and decision variables need to be determined in order to compute the needed outputs?*
+*__Step 3:__ What inputs and decision variables need to be determined in order to compute the needed outputs?*
 
 ![](./Chapter_6_Building_A_Model/media/01_Should_LeNapoleon_Open_A_New_Bakery/image2.gif)
 
