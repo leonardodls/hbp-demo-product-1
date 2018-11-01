@@ -16,11 +16,13 @@ We want to determine whether or not Le Napoleon should open the new bakery.
 
 If the NPV of the cash flows from the bakery is positive, the bakery will enhance overall profitability (even if it may have a negative short term effect) and probably should be built. Recall from the chapter [Useful Excel Functions](javascript:null) that maximizing NPV instead of the sum of profits ensures that we properly account for the time value of the money.
 
-![](./Chapter_6_Building_A_Model/media/01_Should_LeNapoleon_Open_A_New_Bakery/image2.png)
+Since you have not yet begun your studies many of you do not know how to compute cash flows. In this example, we will assume no taxes and no depreciation of the bakery building costs, which we will assume are immediately expensed. We will also ignore changes in working capital. (Do not worry if you do not understand these terms; after taking accounting you will\!) Under these assumptions cash flows equal profits, which are simply calculated as revenues less expenses.
+
+If you want a refresher on NPV, watch the video below.
+
+{video-youtube} https://www.youtube.com/embed/jylJ2r9bklE
 
 *\[Credits: Alanis Business Academy\]*
-
-Since you have not yet begun your studies many of you do not know how to compute cash flows. In this example, we will assume no taxes and no depreciation of the bakery building costs, which we will assume are immediately expensed. We will also ignore changes in working capital. (Do not worry if you do not understand these terms; after taking accounting you will\!) Under these assumptions cash flows equal profits, which are simply calculated as revenues less expenses.
 
 *Step 3: What inputs and decision variables need to be determined in order to compute the needed outputs?*
 
