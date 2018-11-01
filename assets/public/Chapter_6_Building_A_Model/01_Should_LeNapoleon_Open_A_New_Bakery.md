@@ -22,7 +22,7 @@ If you want a refresher on NPV, watch the video below.
 
 {video-youtube} https://www.youtube.com/embed/jylJ2r9bklE
 
-*\[Credits: Alanis Business Academy\]*
+###### \[Credits: Alanis Business Academy\]
 
 *Step 3: What inputs and decision variables need to be determined in order to compute the needed outputs?*
 
