@@ -6,6 +6,6 @@ The two met each other not long after moving to the U.S. and found that not only
 
 Le Napoleon got its start in a business incubator, and at first, the bakery had just a small stand at the weekly farmer's market. Soon, though, satisfied customers began to place special orders. When Michel and Anne-Sophia had to turn down their third wedding cake request, they decided to sit down and work out a plan to move out of the business incubator and into their own, dedicated location. The business is now thriving.  
   
-In this course, we will use operations at Le Napoleon to illustrate some of the problems that businesses both large and small must face—and Excel to illustrate solutions to those problems.
+In this course, we will use operations at Le Napoleon to illustrate some of the problems that businesses both large and small must face and Excel to illustrate solutions to those problems.
 
 ![](./Chapter_1_Introduction/media/01_The_Company/image2.png)
